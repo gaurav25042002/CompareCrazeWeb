@@ -1,0 +1,993 @@
+[
+  {
+  "brand": "M4",
+  "model": "M4 Bluetooth Fitness Smart Band",
+  "price": "Rs. 999",
+  "description": "M4 Bluetooth Fitness Smart Band Waterproof And Blood Pressure Heart Rate Heart Monitor Fitness Tracker Smart Watch Most Usable Device For Everyone Wrist Friendly Band (Black)",
+  "imageUrl": "https://m.media-amazon.com/images/I/41B2JpN44KL.jpg",
+  "General": {
+    "Model Number": "M4 Bluetooth Fitness Smart Band Waterproof And Blood Pressure Heart Rate Heart Monitor Fitness Tracker Smart Watch Most Usable Device For Everyone Wrist Friendly Band (Black)",
+    "Model Name": "M4 Bluetooth Fitness Wrist Smart Band",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 M4 Smart Band",
+    "1 Charging Cable &",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4
+  },
+  "Display & Battery Features": {
+    "Display Type": "OLED",
+    "Display Resolution": "128 x 240",
+    "Battery Life": "1 Day",
+    "Battery Type": "In-Built Rechargeable Battery"
+  },
+  "Dimensions": {
+    "Weight": "18 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "NA",
+    "Service Type": "NA",
+    "Covered in Warranty": "NA",
+    "Not Covered in Warranty": "NA"
+  }
+},
+    
+{
+  "brand": "Samsung",
+  "model": "Galaxy Fit 2",
+  "price": "₹4,999",
+  "description": "Samsung Galaxy Fit 2 Bluetooth Fitness Tracking Smart Band – Light and Slim Design – 1.1” Full Color AMOLED Display – 2-3 Day Battery Life – Advanced Sleep Analysis – Auto Workout Tracking",
+  "imageUrl": "https://m.media-amazon.com/images/I/41PpJFtiHZL._SX300_SY300_QL70_FMwebp_.jpg",
+  "General": {
+    "Model Number": "Galaxy Fit 2",
+    "Model Name": "Galaxy Fit 2",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Samsung Galaxy Fit 2",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "126 x 294",
+    "Battery Life": "Up to 21 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "21 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Xiaomi",
+  "model": "Mi Smart Band 6",
+  "price": "₹2,488",
+  "description": "Xiaomi Mi Smart Band 6 – 1.56 Inch AMOLED Touch Screen – 30 Workout Modes – 24H Heart Rate Monitor – Water Resistant – 14 Days Battery Life – Women's Health Tracking",
+  "imageUrl": "https://m.media-amazon.com/images/I/31geV-ZPx1L._SX300_SY300_QL70_FMwebp_.jpg",
+  "General": {
+    "Model Number": "Mi Smart Band 6",
+    "Model Name": "Mi Smart Band 6",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Xiaomi Mi Smart Band 6",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "152 x 486",
+    "Battery Life": "Up to 14 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "12.8 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Garmin",
+  "model": "Vivosmart 4",
+  "price": "₹2099",
+  "description": "Garmin Vivosmart 4, Activity and Fitness Tracker w/ Pulse Ox and Heart Rate Monitor, Rose Gold with Gray Band",
+  "imageUrl": "https://m.media-amazon.com/images/I/31HzbGOp5yL._SY300_SX300_QL70_FMwebp_.jpg",
+  "General": {
+    "Model Number": "Vivosmart 4",
+    "Model Name": "Vivosmart 4",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Garmin Vivosmart 4",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.2
+  },
+  "Display & Battery Features": {
+    "Display Type": "OLED",
+    "Display Resolution": "48 x 128",
+    "Battery Life": "Up to 7 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "17.7 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Apple",
+  "model": "Watch Series 7",
+  "price": "₹10,799",
+  "description": "New Apple Watch Series 7 (GPS, 45mm) - Starlight Aluminum Case with Starlight Sport Band",
+  "imageUrl": "https://m.media-amazon.com/images/I/41NDG1LI3wL._SX300_SY300_QL70_FMwebp_.jpg",
+  "General": {
+    "Model Number": "Series 7",
+    "Model Name": "Watch Series 7",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Apple Watch Series 7",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5
+  },
+  "Display & Battery Features": {
+    "Display Type": "LTPO OLED",
+    "Display Resolution": "396 x 484",
+    "Battery Life": "Up to 18 Hours",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "47.1 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Huawei",
+  "model": "Band 6",
+  "price": "₹2,199",
+  "description": "Huawei Band 6 Smart Watch - All Day SpO2 Monitoring, 1.47-inch AMOLED Touch Screen, 2-Week Battery Life, Built-in GPS, 96 Workout Modes, 5ATM Water Resistance, Heart Rate Monitoring, Sleep Monitoring",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kpk3csw0/smart-band-tag/q/k/k/no-regular-arg-b39-yes-android-ios-honor-yes-original-imag3ru4ruxzvykz.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Band 6",
+    "Model Name": "Band 6",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Huawei Band 6",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "194 x 368",
+    "Battery Life": "Up to 14 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "21 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Amazfit",
+  "model": "Band 5",
+  "price": "$39.99",
+  "description": "Amazfit Band 5 Fitness Tracker with Alexa Built-in, 15-Day Battery Life, Blood Oxygen, Heart Rate, Sleep Monitoring, Music Control, Water Resistant, 1.1-inch Color AMOLED Display",
+  "imageUrl": "https://m.media-amazon.com/images/I/41NDG1LI3wL._SX300_SY300_QL70_FMwebp_.jpg",
+  "General": {
+    "Model Number": "Band 5",
+    "Model Name": "Band 5",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Amazfit Band 5",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "126 x 294",
+    "Battery Life": "Up to 15 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "12 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "OnePlus",
+  "model": "Band",
+  "price": "$34.99",
+  "description": "OnePlus Band: Activity Tracker, Smart Fitness Band with 1.1\" AMOLED Display, 14 Days Battery Life, Blood Oxygen Saturation Monitoring (SpO2), Heart Rate & Sleep Tracking, IP68 Water Resistance",
+  "imageUrl": "https://m.media-amazon.com/images/I/514cBZZxi3L._SX679_.jpg",
+  "General": {
+    "Model Number": "Band",
+    "Model Name": "Band",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 OnePlus Band",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "126 x 294",
+    "Battery Life": "Up to 14 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "22.6 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Sony",
+  "model": "SmartBand 2",
+  "price": "₹7,410",
+  "description": "Sony SmartBand 2 SWR12 (Black)",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/smart-band-tag/c/t/p/tft-lcd-no-12-11-6-cm-1-yes-yes-f-id-116-smart-band-po2-android-original-imagtef6yag8gfgc.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "SmartBand 2",
+    "Model Name": "SmartBand 2",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Sony SmartBand 2",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "OLED",
+    "Display Resolution": "128 x 128",
+    "Battery Life": "Up to 5 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "24 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Polar",
+  "model": "A370",
+  "price": "₹959",
+  "description": "Polar A370 Fitness Tracker with 24/7 Wrist Based Heart Rate Monitor, Black, Medium",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/ktn9pjk0/smartwatch/m/o/c/3-android-ios-m5-drumstone-no-original-imag6xzndpycfhdn.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "A370",
+    "Model Name": "A370",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Polar A370",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "OLED",
+    "Display Resolution": "80 x 160",
+    "Battery Life": "Up to 4 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "31.7 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Withings",
+  "model": "ScanWatch",
+  "price": "₹2,199",
+  "description": "Withings ScanWatch - Hybrid Smartwatch with ECG, Heart Rate, Oxygen Saturation, and Fitness Tracker - Sapphire Glass, Steel Bezel, Leather Band",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kpk3csw0/smart-band-tag/q/k/k/no-regular-arg-b39-yes-android-ios-honor-yes-original-imag3ru4ruxzvykz.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "ScanWatch",
+    "Model Name": "ScanWatch",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Stainless Steel",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Withings ScanWatch",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "240 x 240",
+    "Battery Life": "Up to 30 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "52 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "2 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "TomTom",
+  "model": "Touch",
+  "price": "₹806",
+  "description": "TomTom Touch - Fitness Tracker with Heart Rate Monitor and Body Composition (Body Fat/ Muscle Mass/ BMI/ Resting Heart Rate) - Black, Large",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/k0cqqvk0/smart-band-tag/r/k/2/fitness-tracker-bracelet-waterproof-wonder-world-original-imafk5auyguttzzt.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Touch",
+    "Model Name": "Touch",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 TomTom Touch",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.1
+  },
+  "Display & Battery Features": {
+    "Display Type": "OLED",
+    "Display Resolution": "128 x 32",
+    "Battery Life": "Up to 5 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "10 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Garmin",
+  "model": "Vivosport",
+  "price": "₹799",
+  "description": "Garmin Vivosport, Fitness/Activity Tracker with GPS and Heart Rate Monitoring, Slate, Large",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kd3f3bk0/smart-band-tag/g/m/g/no-yes-health-tracker-122-android-ios-voltegic-yes-original-imafu2t4fhecgzrg.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Vivosport",
+    "Model Name": "Vivosport",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Garmin Vivosport",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "MIP LCD",
+    "Display Resolution": "72 x 144",
+    "Battery Life": "Up to 7 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "27 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Polar",
+  "model": "A300",
+  "price": "₹799",
+  "description": "Polar A300 Fitness Tracker and Activity Monitor",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kd1zngw0/smart-band-tag/w/d/p/no-yes-m5-health-tracker-108-android-ios-rhonnium-yes-original-imafuf3pemhhmx9x.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "A300",
+    "Model Name": "A300",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Polar A300",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "LCD",
+    "Display Resolution": "128 x 128",
+    "Battery Life": "Up to 4 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "48.2 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Fossil",
+  "model": "Sport",
+  "price": "₹455",
+  "description": "Fossil Gen 4 Sport Heart Rate Metal and Silicone Touchscreen Smartwatch",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/khmbafk0-0/smart-band-tag/y/w/9/no-id115-yes-android-ios-sunnybuy-yes-original-imafxhzkzgaacsky.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Sport",
+    "Model Name": "Sport",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Fossil Sport",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.2
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "390 x 390",
+    "Battery Life": "Up to 24 Hours",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "41 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "2 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Suunto",
+  "model": "3 Fitness",
+  "price": "₹395",
+  "description": "Suunto 3 Fitness Tracker Watch with Heart Rate Monitor, Ocean",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/q/f/u/44-116-android-ios-quashwin-no-original-imag963jgfxbdk8b.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "3 Fitness",
+    "Model Name": "3 Fitness",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Suunto 3 Fitness",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "LCD",
+    "Display Resolution": "218 x 218",
+    "Battery Life": "Up to 7 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "36 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "2 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Timex",
+  "model": "Fitness Tracker",
+  "price": "$49.95",
+  "description": "Timex Metropolitan R AMOLED Smartwatch with GPS & Heart Rate 42mm – Rose Gold-Tone with Blush Silicone Strap",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/ku5ufm80/smart-band-tag/y/x/c/oled-no-free-2-yes-no-men-women-smart-fitness-band-d116-original-imag7cphqcrgmmkn.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Fitness Tracker",
+    "Model Name": "Fitness Tracker",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Timex Fitness Tracker",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 4.2
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "390 x 390",
+    "Battery Life": "Up to 5 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "36.2 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Nokia",
+  "model": "Go",
+  "price": "₹2,609",
+  "description": "Nokia Go - Activity & Sleep Tracking Watch",
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/a/n/v/45-fit-s-android-ios-urban-yes-original-imagrk2phzhzhm6u.jpeg?q=70&crop=false",
+  "General": {
+    "Model Number": "Go",
+    "Model Name": "Go",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Plastic",
+    "Suitable For": "Running",
+    "Touch Enabled": "No",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "No"
+  },
+  "Sales Package": [
+    "1 Nokia Go",
+    "1 Battery",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Steps",
+    "Sensor Type": 2,
+    "Heart Rate Monitor Present": "No",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "No"
+  },
+  "Display & Battery Features": {
+    "Display Type": "E Ink",
+    "Display Resolution": "88 x 88",
+    "Battery Life": "Up to 8 Months",
+    "Battery Type": "Coin Cell"
+  },
+  "Dimensions": {
+    "Weight": "18.6 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "Carry-in",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+},
+{
+  "brand": "Fitbit",
+  "model": "Charge 5",
+  "price": "$179.95",
+  "description": "Fitbit Charge 5 Advanced Fitness & Health Tracker with Built-in GPS, Stress Management Tools, Sleep Tracking, 24/7 Heart Rate and More, Black/Graphite, One Size (S &L Bands Included)",
+  "imageUrl": "https://example.com/fitbit-charge-5.jpg",
+  "General": {
+    "Model Number": "Charge 5",
+    "Model Name": "Charge 5",
+    "Reading Type": "Digital",
+    "Ideal For": "Unisex",
+    "Material": "Silicone",
+    "Suitable For": "Running",
+    "Touch Enabled": "Yes",
+    "Water Resistant": "Yes"
+  },
+  "Function": {
+    "Heart Rate Tracker": "Yes"
+  },
+  "Sales Package": [
+    "1 Fitbit Charge 5",
+    "1 Charging Cable",
+    "Manual"
+  ],
+  "Performance Features": {
+    "Activity Tracker Present": "Yes",
+    "Activity Tracking Function": "Calories burned",
+    "Sensor Type": 3,
+    "Heart Rate Monitor Present": "Yes",
+    "Shock Resistant": "No"
+  },
+  "Connectivity Features": {
+    "Wifi Enabled": "No",
+    "Bluetooth Enabled": "Yes",
+    "Bluetooth Version": 5.0
+  },
+  "Display & Battery Features": {
+    "Display Type": "AMOLED",
+    "Display Resolution": "100 x 160",
+    "Battery Life": "Up to 7 Days",
+    "Battery Type": "Lithium-ion"
+  },
+  "Dimensions": {
+    "Weight": "30 g"
+  },
+  "Warranty": {
+    "Warranty Summary": "1 Year Limited Warranty",
+    "Service Type": "On-site",
+    "Covered in Warranty": "Manufacturing defects",
+    "Not Covered in Warranty": "Physical damage"
+  }
+}
+
+
+
+]

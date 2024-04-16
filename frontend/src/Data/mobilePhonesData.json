@@ -1,0 +1,1675 @@
+[
+  {
+    "brand": "OnePlus",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/x/t/k/-original-imag43fz8bd4hg3d.jpeg?q=70&crop=false",
+    "model": "Nord CE 4",
+    "release_date": "April 1, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Polycarbonate",
+    "dimensions": "162.50 x 75.30 x 8.40 mm",
+    "weight": "186.00 g",
+    "ip_rating": "IP54",
+    "battery_capacity_mah": 5500,
+    "removable_battery": "No",
+    "fast_charging": "Super VOOC",
+    "wireless_charging": "No",
+    "colors": ["Dark Chrome", "Celadon Marble"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.70 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2412 pixels",
+      "pixels_per_inch": 394
+    },
+    "hardware": {
+      "processor": "2.63 MHz octa-core",
+      "processor_make": "Qualcomm Snapdragon 7 Gen 3",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 8-megapixel",
+      "rear_cameras": 2,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "16-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "No",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "OxygenOS 14"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.40",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.70-inch",
+      "processor": "Qualcomm Snapdragon 7 Gen 3",
+      "front_camera": "16-megapixel",
+      "rear_camera": "50-megapixel + 8-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB",
+      "battery_capacity": "5500mAh",
+      "os": "Android 14",
+      "resolution": "1080x2412 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Vivo",
+    "model": "V30 Pro",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/8/t/d/v30-pro-5g-v2319-vivo-original-imagyzhhdeezbbfb.jpeg?q=70&crop=false",
+    "release_date": "February 28, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "dimensions": "164.36 x 75.10 x 7.45 mm",
+    "weight": "188.00 g",
+    "ip_rating": "IP54",
+    "battery_capacity_mah": 5000,
+    "removable_battery": "No",
+    "fast_charging": "80W Fast Charging",
+    "wireless_charging": "-",
+    "colors": ["Andaman Blue", "Classic Black"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "screen_size": "6.78 inches",
+      "touchscreen": "Yes",
+      "resolution": "2800x1260 pixels",
+      "pixels_per_inch": 452
+    },
+    "hardware": {
+      "processor_make": "MediaTek Dimensity 8200",
+      "ram": ["8GB", "12GB"],
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "-",
+        "type": "-",
+        "up_to_gb": "-",
+        "dedicated_slot": "-"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 50-megapixel + 50-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "-",
+      "rear_flash": "-",
+      "front_camera": "50-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "-",
+      "front_flash": "-"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "FunTouchOS 14"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.30",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.78-inch",
+      "processor": "-",
+      "front_camera": "50-megapixel",
+      "rear_camera": "50-megapixel + 50-megapixel + 50-megapixel",
+      "ram": "8GB, 12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "5000mAh",
+      "os": "Android 14",
+      "resolution": "2800x1260 pixels"
+    },
+    "read_review": "-"
+  },
+
+  {
+    "brand": "Samsung",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/k/h/-original-imagzm8qmr7qxfhq.jpeg?q=70&crop=false",
+    "model": "Galaxy S30 Ultra",
+    "release_date": "May 15, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "165.1 x 76.4 x 8.9 mm",
+    "weight": "220 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 6000,
+    "removable_battery": "No",
+    "fast_charging": "Super Fast Charging",
+    "wireless_charging": "Yes",
+    "colors": ["Phantom Black", "Phantom Silver"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "QHD+",
+      "screen_size": "6.8 inches",
+      "touchscreen": "Yes",
+      "resolution": "1440x3200 pixels",
+      "pixels_per_inch": 516
+    },
+    "hardware": {
+      "processor": "Exynos 2200",
+      "processor_make": "Samsung",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 12-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "40-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "One UI 5.0"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.8-inch",
+      "processor": "Exynos 2200",
+      "front_camera": "40-megapixel",
+      "rear_camera": "108-megapixel + 12-megapixel + 12-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "6000mAh",
+      "os": "Android 14",
+      "resolution": "1440x3200 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70&crop=false",
+    "release_date": "September 20, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "160.8 x 78.1 x 7.7 mm",
+    "weight": "228 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Graphite", "Silver", "Gold", "Pacific Blue"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "Super Retina XDR",
+      "screen_size": "6.7 inches",
+      "touchscreen": "Yes",
+      "resolution": "1284x2778 pixels",
+      "pixels_per_inch": 458
+    },
+    "hardware": {
+      "processor": "Apple A16 Bionic",
+      "processor_make": "Apple",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB", "512GB", "1TB"],
+      "expandable_storage": {
+        "supported": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "64-megapixel + 12-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "20-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "iOS 18"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 6.0",
+      "nfc": "Yes",
+      "usb_type_c": "No",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "No"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.7-inch",
+      "processor": "Apple A16 Bionic",
+      "front_camera": "20-megapixel",
+      "rear_camera": "64-megapixel + 12-megapixel + 12-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB, 512GB, 1TB",
+      "battery_capacity": "4500mAh",
+      "os": "iOS 18",
+      "resolution": "1284x2778 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Xiaomi",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/j8bxvgw0-1/mobile/g/j/z/mi-mi-mix-2-na-original-imaeydgnjzmvxwfz.jpeg?q=70&crop=false",
+    "model": "Mi Mix 7",
+    "release_date": "June 10, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "163.3 x 77.2 x 8.8 mm",
+    "weight": "216 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 5000,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Pearl White", "Onyx Black", "Ocean Green"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "QHD+",
+      "screen_size": "6.9 inches",
+      "touchscreen": "Yes",
+      "resolution": "1440x3200 pixels",
+      "pixels_per_inch": 512
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "16GB",
+      "internal_storage": ["256GB", "512GB", "1TB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 12-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "MIUI 16"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.40",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.9-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "108-megapixel + 12-megapixel + 8-megapixel",
+      "ram": "16GB",
+      "storage": "256GB, 512GB, 1TB",
+      "battery_capacity": "5000mAh",
+      "os": "MIUI 16",
+      "resolution": "1440x3200 pixels"
+    },
+    "read_review": "-"
+  },
+
+  {
+    "brand": "Google",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/0/q/-original-imagtwh6ehjjzqhu.jpeg?q=70&crop=false",
+    "model": "Pixel 8",
+    "release_date": "July 5, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "158.5 x 73.6 x 8.2 mm",
+    "weight": "186 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4800,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Just Black", "Clearly White", "Kinda Green"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.5 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2400 pixels",
+      "pixels_per_inch": 405
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB"],
+      "expandable_storage": {
+        "supported": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 12-megapixel",
+      "rear_cameras": 2,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "20-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "Pixel UI"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.5-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "20-megapixel",
+      "rear_camera": "50-megapixel + 12-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB",
+      "battery_capacity": "4800mAh",
+      "os": "Android 14",
+      "resolution": "1080x2400 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 2 Pro",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/jmgmmq80/mobile/x/m/y/realme-2-pro-rmx1801-original-imaf9cu2przq9g8z.jpeg?q=70&crop=false",
+    "release_date": "August 20, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "161.5 x 71.2 x 7.8 mm",
+    "weight": "183 g",
+    "ip_rating": "IP65/IP68",
+    "battery_capacity_mah": 4500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Black", "White", "Blue"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "4K HDR",
+      "screen_size": "6.1 inches",
+      "touchscreen": "Yes",
+      "resolution": "1644x3840 pixels",
+      "pixels_per_inch": 643
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "8GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "64-megapixel + 12-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "Xperia UI"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.1-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "64-megapixel + 12-megapixel + 8-megapixel",
+      "ram": "8GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "4500mAh",
+      "os": "Android 14",
+      "resolution": "1644x3840 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Samsung",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/z/p/-original-imaggj68yffchuwx.jpeg?q=70&crop=false",
+    "model": "Galaxy S22 Ultra",
+    "release_date": "September 15, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "164.4 x 76.4 x 8.9 mm",
+    "weight": "228 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 5000,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Phantom Black", "Phantom White", "Phantom Green"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "QHD+",
+      "screen_size": "6.8 inches",
+      "touchscreen": "Yes",
+      "resolution": "1440x3200 pixels",
+      "pixels_per_inch": 516
+    },
+    "hardware": {
+      "processor": "Exynos 2200",
+      "processor_make": "Samsung",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB", "1TB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 10-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "40-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "One UI 5.0"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.8-inch",
+      "processor": "Exynos 2200",
+      "front_camera": "40-megapixel",
+      "rear_camera": "108-megapixel + 10-megapixel + 12-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB, 1TB",
+      "battery_capacity": "5000mAh",
+      "os": "Android 14",
+      "resolution": "1440x3200 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Huawei",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/7/y/u/-original-imagqmtfu8gt62yv.jpeg?q=70&crop=false",
+    "model": "P50 Pro",
+    "release_date": "October 10, 2024",
+    "launched_in_india": "No",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "158.8 x 72.8 x 8 mm",
+    "weight": "186 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Black", "White", "Golden"],
+    "display": {
+      "refresh_rate": "90 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.6 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2340 pixels",
+      "pixels_per_inch": 398
+    },
+    "hardware": {
+      "processor": "Kirin 9000",
+      "processor_make": "Huawei",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "NM (Nano Memory)",
+        "up_to_gb": 256,
+        "dedicated_slot": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 40-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "HarmonyOS 3.0",
+      "skin": "EMUI 14"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.20",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.6-inch",
+      "processor": "Kirin 9000",
+      "front_camera": "32-megapixel",
+      "rear_camera": "50-megapixel + 40-megapixel + 8-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "4500mAh",
+      "os": "HarmonyOS 3.0",
+      "resolution": "1080x2340 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Xiaomi",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/1/1/s/-original-imagwu89jy5ems28.jpeg?q=70&crop=false",
+    "model": "Mi 12 Pro",
+    "release_date": "November 25, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "163.6 x 74.2 x 8.1 mm",
+    "weight": "209 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4800,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Cosmic Black", "Frost Blue", "Starry Pink"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "QHD+",
+      "screen_size": "6.8 inches",
+      "touchscreen": "Yes",
+      "resolution": "1440x3200 pixels",
+      "pixels_per_inch": 516
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 48-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "MIUI 15"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.8-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "108-megapixel + 48-megapixel + 12-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "4800mAh",
+      "os": "Android 14",
+      "resolution": "1440x3200 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/0/q/d/-original-imagtc4hzawdcp4g.jpeg?q=70&crop=false",
+    "release_date": "December 10, 2024",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "146.7 x 71.5 x 7.7 mm",
+    "weight": "180 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 3500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "Super Retina XDR",
+      "screen_size": "6.1 inches",
+      "touchscreen": "Yes",
+      "resolution": "1170x2532 pixels",
+      "pixels_per_inch": 460
+    },
+    "hardware": {
+      "processor": "Apple A16 Bionic",
+      "processor_make": "Apple",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "12-megapixel + 12-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "12-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "iOS 16",
+      "skin": "-"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "No",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "No"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "No"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.1-inch",
+      "processor": "Apple A16 Bionic",
+      "front_camera": "12-megapixel",
+      "rear_camera": "12-megapixel + 12-megapixel + 12-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB, 512GB",
+      "battery_capacity": "3500mAh",
+      "os": "iOS 16",
+      "resolution": "1170x2532 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Motorola",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/c/r/-original-imagx24ftn9fyuam.jpeg?q=70&crop=false",
+    "model": "Edge 40",
+    "release_date": "January 15, 2025",
+    "launched_in_india": "No",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "163.3 x 74.6 x 7.9 mm",
+    "weight": "180 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Nebula Blue", "Starlight Silver"],
+    "display": {
+      "refresh_rate": "144 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.8 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2400 pixels",
+      "pixels_per_inch": 387
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 16-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "My UX"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.8-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "108-megapixel + 16-megapixel + 8-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB",
+      "battery_capacity": "4500mAh",
+      "os": "Android 14",
+      "resolution": "1080x2400 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Nokia",
+    "model": "X40",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/a/f/g42-5g-ta-1586-nokia-original-imagunrqsdh8ghvv.jpeg?q=70&crop=false",
+    "release_date": "February 28, 2025",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "166.5 x 76.5 x 8.1 mm",
+    "weight": "195 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 5000,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Midnight Sun", "Polar Night"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.9 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2400 pixels",
+      "pixels_per_inch": 396
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+        "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "108-megapixel + 13-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "Pure Android"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.9-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "108-megapixel + 13-megapixel + 8-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB",
+      "battery_capacity": "5000mAh",
+      "os": "Android 14",
+      "resolution": "1080x2400 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 Mark III",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/mobile/t/a/t/panasonic-eluga-mark-2-eb-90s55em2-original-imaez7yzqaywhphv.jpeg?q=70&crop=false",
+    "release_date": "March 20, 2025",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "158.5 x 68 x 8.5 mm",
+    "weight": "169 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4500,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Black", "White"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.1 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2520 pixels",
+      "pixels_per_inch": 449
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "8GB",
+      "internal_storage": ["128GB", "256GB"],
+      "expandable_storage": {
+        "supported": "Yes",
+               "type": "microSD",
+        "up_to_gb": 1000,
+        "dedicated_slot": "Yes"
+      }
+    },
+    "camera": {
+      "rear_camera": "12-megapixel + 12-megapixel + 12-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "8-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 14",
+      "skin": "Sony UI"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.1-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "8-megapixel",
+      "rear_camera": "12-megapixel + 12-megapixel + 12-megapixel",
+      "ram": "8GB",
+      "storage": "128GB, 256GB",
+      "battery_capacity": "4500mAh",
+      "os": "Android 14",
+      "resolution": "1080x2520 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "Google",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70&crop=false",
+    "model": "Pixel 7 Pro",
+    "release_date": "April 10, 2025",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "163.2 x 76.6 x 8.3 mm",
+    "weight": "207 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 4800,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Just Black", "Sorta Sage", "Stormy Sky"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "QHD+",
+      "screen_size": "6.7 inches",
+      "touchscreen": "Yes",
+      "resolution": "1440x3120 pixels",
+      "pixels_per_inch": 518
+    },
+    "hardware": {
+      "processor": "Tensor 2",
+      "processor_make": "Google",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 12-megapixel + 48-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "12-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "Android 15",
+      "skin": "Pixel UI"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 6.20",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.7-inch",
+      "processor": "Tensor 2",
+      "front_camera": "12-megapixel",
+      "rear_camera": "50-megapixel + 12-megapixel + 48-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "4800mAh",
+      "os": "Android 15",
+      "resolution": "1440x3120 pixels"
+    },
+    "read_review": "-"
+  },
+  {
+    "brand": "OnePlus",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/j/q/-original-imagkgshx9kfayxq.jpeg?q=70&crop=false",
+    "model": "10 Pro",
+    "release_date": "May 5, 2025",
+    "launched_in_india": "Yes",
+    "form_factor": "Touchscreen",
+    "body_type": "Glass",
+    "dimensions": "163.2 x 73.6 x 8.7 mm",
+    "weight": "200 g",
+    "ip_rating": "IP68",
+    "battery_capacity_mah": 5000,
+    "removable_battery": "No",
+    "fast_charging": "Yes",
+    "wireless_charging": "Yes",
+    "colors": ["Morning Haze", "Stellar Black"],
+    "display": {
+      "refresh_rate": "120 Hz",
+      "resolution_standard": "FHD+",
+      "screen_size": "6.7 inches",
+      "touchscreen": "Yes",
+      "resolution": "1080x2400 pixels",
+      "pixels_per_inch": 393
+    },
+    "hardware": {
+      "processor": "Snapdragon 8 Gen 2",
+      "processor_make": "Qualcomm",
+      "ram": "12GB",
+      "internal_storage": ["256GB", "512GB"],
+      "expandable_storage": {
+        "supported": "No"
+      }
+    },
+    "camera": {
+      "rear_camera": "50-megapixel + 48-megapixel + 8-megapixel",
+      "rear_cameras": 3,
+      "rear_autofocus": "Yes",
+      "rear_flash": "Yes",
+      "front_camera": "32-megapixel",
+      "front_cameras": 1,
+      "front_autofocus": "Yes",
+      "front_flash": "No"
+    },
+    "software": {
+      "operating_system": "OxygenOS 17",
+      "skin": "-"
+    },
+    "connectivity": {
+      "wi_fi": "Yes",
+      "wi_fi_standards_supported": "802.11 a/b/g/n/ac/6E",
+      "gps": "Yes",
+      "bluetooth": "Yes, v 5.50",
+      "nfc": "Yes",
+      "usb_type_c": "Yes",
+      "number_of_sims": 2,
+      "active_4g_on_both_sim_cards": "Yes"
+    },
+    "sim_1": {
+      "sim_type": "Nano-SIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sim_2": {
+      "sim_type": "eSIM",
+      "gsm_cdma": "GSM",
+      "3g": "Yes",
+      "4g_lte": "Yes",
+      "5g": "Yes"
+    },
+    "sensors": {
+      "face_unlock": "Yes",
+      "compass_magnetometer": "Yes",
+      "proximity_sensor": "Yes",
+      "accelerometer": "Yes",
+      "ambient_light_sensor": "Yes",
+      "gyroscope": "Yes",
+      "in_display_fingerprint_sensor": "Yes"
+    },
+    "ratings": {
+      "overall_ndtv_rating": "-",
+      "design_rating": "-",
+      "display_rating": "-",
+      "software_rating": "-",
+      "performance_rating": "-",
+      "battery_life_rating": "-",
+      "camera_rating": "-",
+      "value_for_money_rating": "-"
+    },
+    "key_specs": {
+      "display": "6.7-inch",
+      "processor": "Snapdragon 8 Gen 2",
+      "front_camera": "32-megapixel",
+      "rear_camera": "50-megapixel + 48-megapixel + 8-megapixel",
+      "ram": "12GB",
+      "storage": "256GB, 512GB",
+      "battery_capacity": "5000mAh",
+      "os": "OxygenOS 17",
+      "resolution": "1080x2400 pixels"
+    },
+    "read_review": "-"
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "brand": "ASUS",
+    "price": "₹60,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/6/j/-original-imagpxgqfz7djerv.jpeg?q=70&crop=false",
+    "description": "ASUS Vivobook 16 (2023) Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) X1605VAB-MB544WS Laptop (16 Inch, Transparent Silver, 1.88 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "X1605VAB-MB544WS",
+    "part_number": "90NB10N2-M00BR0",
+    "model_name": "X1605VAB-MB544WS",
+    "series": "Vivobook 16 (2023)",
+    "color": "Transparent Silver",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i5",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "1335U",
+      "clock_speed": "Max Turbo Frequency up to 4.6 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 2.0 Type-A, 1 x USB 3.2 Gen 1 Type-C support power delivery, 2 x USB 3.2 Gen 1 Type-A"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "40.64 cm (16 Inch)",
+      "screen_resolution": "1920 x 1200 Pixel",
+      "screen_type": "WUXGA, 16:10 aspect ratio, IPS-level Panel, 60Hz refresh rate, 300nits, 45% NTSC color gamut, Anti-glare display",
+      "speakers": "Built-in Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E(802.11ax) (Dual band) 1*1",
+      "bluetooth": "v5.0"
+    },
+    "dimensions": {
+      "weight": "1.88 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD camera With privacy shutter",
+      "finger_print_sensor": "No",
+      "keyboard": "Backlit Chiclet Keyboard with Num-key",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+
+  {
+    "brand": "Dell",
+    "price": "₹1,88,499",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/i/w/xps-13-thin-and-light-laptop-dell-original-imagpm3cqsu7k7ca.jpeg?q=70&crop=false",
+    "description": "Dell XPS 13 (2023) Intel Core i7 13th Gen 1350U - (32 GB/1 TB SSD/Windows 11 Pro) XPS9310-9455SLV-PUS Laptop (13.3 Inch, Platinum Silver with Black Carbon Fiber Palmrest, 1.27 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "XPS9310-9455SLV-PUS",
+    "part_number": "XPS9310-9455SLV-PUS",
+    "model_name": "XPS 13 (2023)",
+    "series": "XPS",
+    "color": "Platinum Silver with Black Carbon Fiber Palmrest",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "LPDDR5",
+      "processor_variant": "1350U",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt™ 4 with Power Delivery & DisplayPort, 1 x USB 3.2 Gen 2 Type-C™ with Power Delivery/DisplayPort"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "33.78 cm (13.3 Inch)",
+      "screen_resolution": "3840 x 2400 Pixel",
+      "screen_type": "13.4-inch 16:10 3.5K+ WLED touch display, 100% sRGB, 500 nits, InfinityEdge anti-reflective",
+      "speakers": "Quad Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E(802.11ax) (Dual band) 2*2",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.27 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD camera With privacy shutter",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Chiclet Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "2 Years Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "2 Years"
+    }
+  },
+  {
+    "brand": "HP",
+    "price": "₹1,13,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/r/y/n/x360-bf0059tu-thin-and-light-laptop-hp-original-imagh4z7h3f56xxj.jpeg?q=70&crop=false",
+    "description": "HP Envy x360 (2023) AMD Ryzen 7 6000 Series 6700U - (16 GB/512 GB SSD/Windows 11 Home) Envy x360 15t-ds100 Laptop (15.6 Inch, Natural Silver, 1.92 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Envy x360 15t-ds100",
+    "part_number": "2023",
+    "model_name": "Envy x360 (2023)",
+    "series": "Envy",
+    "color": "Natural Silver",
+    "type": "Convertible 2-in-1 Laptop",
+    "suitable_for": "Multimedia & Gaming",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 7",
+      "processor_generation": "6000 Series",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "6700U",
+      "clock_speed": "Max Turbo Frequency up to 4.3 GHz",
+      "graphic_processor": "AMD Radeon Graphics"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.1 Gen 1 Type-A (HP Sleep and Charge), 1 x USB 3.1 Gen 1 Type-C™ (5 Gb/s signaling rate, Power Delivery 3.0, DisplayPort™ 1.4, HP Sleep and Charge), 1 x HDMI 2.0, 1 x 3.5mm Headphone/Microphone Combo Jack"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD IPS Micro-edge WLED-backlit Touch Screen, 250 nits, 45% NTSC",
+      "speakers": "Quad Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E(802.11ax) (2x2)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.92 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HP Wide Vision 720p HD camera with integrated dual array digital microphone",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size, backlit, pale gold keyboard with numeric keypad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Lenovo",
+    "price": "₹89,190",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/a/m/v/-original-imagtzy85bkygxrz.jpeg?q=70&crop=false",
+    "description": "Lenovo Ideapad Slim 5 Pro (2023) AMD Ryzen 5 6000 Series 6500U - (16 GB/512 GB SSD/Windows 11 Home) Ideapad Slim 5 Pro 16 Laptop (16 Inch, Graphite Grey, 1.72 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Ideapad Slim 5 Pro 16",
+    "part_number": "82L2001TIN",
+    "model_name": "Ideapad Slim 5 Pro (2023)",
+    "series": "Ideapad",
+    "color": "Graphite Grey",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 5",
+      "processor_generation": "6000 Series",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "6500U",
+      "clock_speed": "Max Turbo Frequency up to 4.1 GHz",
+      "graphic_processor": "AMD Radeon Graphics"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Gen 1, 1 x USB 3.2 Gen 1 (Always On), 1 x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.4), HDMI 1.4b, 4-in-1 Card Reader (MMC, SD, SDHC, SDXC)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "40.64 cm (16 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "QHD, IPS, 16:10 Aspect Ratio, Anti-glare, 300 nits",
+      "speakers": "2 x 2W Stereo speakers with Dolby Atmos",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E(802.11ax) (2x2)",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.72 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size, backlit, w/ Number Pad, Privacy Shutter",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Apple",
+    "price": "₹2,18,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kuyf8nk0/computer/c/8/u/mkgp3hn-a-thin-and-light-laptop-apple-original-imag7yznc5d2rsuh.jpeg?q=70&crop=false",
+    "description": "Apple MacBook Pro 14 (2023) Apple M1 Pro 1st Gen - (16 GB/512 GB SSD/macOS Monterey) M1 Pro Z2X62LL/A Laptop (14 Inch, Space Grey, 1.4 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "M1 Pro",
+    "part_number": "Z2X62LL/A",
+    "model_name": "MacBook Pro 14 (2023)",
+    "series": "MacBook Pro",
+    "color": "Space Grey",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "Not Available",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Apple",
+      "processor_name": "M1 Pro",
+      "processor_generation": "1st Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR5",
+      "processor_variant": "M1 Pro",
+      "clock_speed": "Not Available",
+      "graphic_processor": "Integrated Apple M1 Pro GPU"
+    },
+    "operating_system": "macOS Monterey",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt 4 (USB4) ports with support for: Charging, DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 3.1 Gen 2 (up to 10Gb/s)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "35.56 cm (14 Inch)",
+      "screen_resolution": "3024 x 1964 Pixel",
+      "screen_type": "Retina display with True Tone, ProMotion technology, Wide color (P3), Mini-LED-backlit display",
+      "speakers": "Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax) wireless networking, IEEE 802.11a/b/g/n/ac compatible",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.4 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "1080p FaceTime HD camera",
+      "finger_print_sensor": "No",
+      "keyboard": "Backlit Magic Keyboard with Touch ID, Multi-Touch trackpad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Microsoft",
+    "price": "₹1,72,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/i/t/rbg-00048-thin-and-light-laptop-microsoft-original-imagtyx7dzgeb77c.jpeg?q=70&crop=false",
+    "description": "Microsoft Surface Laptop Studio (2023) Intel Core i7 13th Gen 12690P - (32 GB/1 TB SSD/Windows 11 Pro) Surface Laptop Studio 1921 Laptop (14 Inch, Graphite, 1.78 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Surface Laptop Studio",
+    "part_number": "1921",
+    "model_name": "Surface Laptop Studio (2023)",
+    "series": "Surface",
+    "color": "Graphite",
+    "type": "Convertible 2-in-1 Laptop",
+    "suitable_for": "Multimedia & Gaming",
+    "battery_cell": "Not Available",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR5",
+      "processor_variant": "12690P",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3050 Ti"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB-C® with USB 4.0/Thunderbolt™ 4, 2 x USB-A (version 3.2 Gen 2), 1 x Surface Connect port, 1 x 3.5mm headphone jack"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "35.56 cm (14 Inch)",
+      "screen_resolution": "2400 x 1600 Pixel",
+      "screen_type": "PixelSense™ Flow Display",
+      "speakers": "Omnisonic Speakers with Dolby Atmos",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E (IEEE 802.11ax) compatible",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.78 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "1080p FHD f2.0 camera (front-facing), 1080p FHD f2.2 camera (world-facing)",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size, backlit, with Large glass Precision Trackpad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "2 Years Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "2 Years"
+    }
+  },
+  {
+    "brand": "Acer",
+    "description": "Acer Aspire 7 (2023) AMD Ryzen 9 6000 Series 6900H - (32 GB/1 TB SSD/Windows 11 Home) Aspire 7 A715-42G NH.QA2SI.001 Laptop (15.6 Inch, Charcoal Black, 2.15 Kg)",
+    "price": "₹57,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/h/n/f/-original-imagu3kw4jhnaqgm.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Aspire 7 A715-42G",
+    "part_number": "NH.QA2SI.001",
+    "model_name": "Aspire 7 (2023)",
+    "series": "Aspire",
+    "color": "Charcoal Black",
+    "type": "Laptop",
+    "suitable_for": "Gaming",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 9",
+      "processor_generation": "6000 Series",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "6900H",
+      "clock_speed": "Max Turbo Frequency up to 4.5 GHz",
+      "graphic_processor": "NVIDIA GeForce GTX 1650"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB Type-C™ port (USB 3.2 Gen 2), 2 x USB 3.2 Gen 1 ports, 1 x USB 2.0 port, 1 x HDMI port with HDCP support"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD LED Backlit TFT LCD Display, 120Hz, 250 nits"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E (802.11ax) (Dual-Band) 2x2",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "2.15 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam",
+      "finger_print_sensor": "No",
+      "keyboard": "Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year International Travelers Warranty (ITW)",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "price": "₹1,53,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/v/d/-original-imagqtrgjwhsafpa.jpeg?q=70&crop=false",
+    "description": "Samsung Galaxy Book Pro 360 (2023) Intel Core i7 13th Gen 12680H - (16 GB/512 GB SSD/Windows 11 Home) Galaxy Book Pro 360 NP950QDB-KD4BR Laptop (15.6 Inch, Mystic Bronze, 1.06 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Galaxy Book Pro 360",
+    "part_number": "NP950QDB-KD4BR",
+    "model_name": "Galaxy Book Pro 360 (2023)",
+    "series": "Galaxy Book",
+    "color": "Mystic Bronze",
+    "type": "Convertible 2-in-1 Laptop",
+    "suitable_for": "Multimedia & Gaming",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "12680H",
+      "clock_speed": "Max Turbo Frequency up to 4.6 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt™ 4, 1 x USB 3.2 Gen 1, 1 x HDMI, 1 x MicroSD slot"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "FHD Super AMOLED Touch Screen, 120Hz",
+      "speakers": "Quad Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E (802.11ax) (2x2)",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.06 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Magic Keyboard with Touch ID",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "MSI",
+    "price": "₹3,89,990",
+    "description": "MSI GS76 Stealth (2023) Intel Core i9 12th Gen 12980HK - (64 GB/2 TB SSD/Windows 11 Pro) GS76 Stealth 11UH-244 Laptop (17.3 Inch, Core Black, 2.7 Kg)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/s/g/x/titan-gt77-hx-13vi-092in-gaming-laptop-msi-original-imagz6bbegpvmr2k.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "GS76 Stealth 11UH-244",
+    "part_number": "9S7-17G912-244",
+    "model_name": "GS76 Stealth (2023)",
+    "series": "GS Stealth",
+    "color": "Core Black",
+    "type": "Laptop",
+    "suitable_for": "Gaming",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i9",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "2 TB",
+      "ram": "64 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "12980HK",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3080 Ti"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "2 x USB Type-C™ (USB4 / DP / Thunderbolt™ 4) with PD charging, 2 x USB Type-A (USB3.2 Gen2), 1 x HDMI (8K @ 60Hz / 4K @ 120Hz), 1 x Micro SD Card Reader"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "43.94 cm (17.3 Inch)",
+      "screen_resolution": "3840 x 2160 Pixel",
+      "screen_type": "UHD 4K IPS-level Panel, 120Hz, 100% Adobe, Thin Bezel, Anti-glare",
+      "speakers": "Duo Wave Speaker",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Killer Wi-Fi 6E (802.11ax) + Bluetooth v5.2"
+    },
+    "dimensions": {
+      "weight": "2.7 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "FHD type (30fps@1080p)",
+      "finger_print_sensor": "Yes",
+      "keyboard": "SteelSeries per-Key RGB Keyboard with Anti-Ghost key (84 Key)",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "2 Years Global Warranty",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "2 Years"
+    }
+  },
+  {
+    "brand": "Razer",
+    "price": "₹2,84,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/8/b/w/-original-imagz42t6kzzjrcx.jpeg?q=70&crop=false",
+    "description": "Razer Blade 15 Advanced (2023) Intel Core i9 12th Gen 12900H - (32 GB/2 TB SSD/Windows 11 Home) Blade 15 Advanced RZ09-0507D31-R3U1 Laptop (15.6 Inch, Mercury White, 2.25 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Blade 15 Advanced",
+    "part_number": "RZ09-0507D31-R3U1",
+    "model_name": "Blade 15 Advanced (2023)",
+    "series": "Blade",
+    "color": "Mercury White",
+    "type": "Laptop",
+    "suitable_for": "Gaming",
+    "battery_cell": "Not Available",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i9",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "2 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR5",
+      "processor_variant": "12900H",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3080 Ti"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "3 x USB 3.2 Gen 2 Type-A ports, 2 x Thunderbolt 4 (USB-C) ports, 1 x HDMI 2.1 port, 1 x UHS-III SD card reader"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "3840 x 2400 Pixel",
+      "screen_type": "4K OLED, 60Hz, 100% DCI-P3, Touch",
+      "speakers": "Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel® Wi-Fi 6E AX211 (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "2.25 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD webcam",
+      "finger_print_sensor": "No",
+      "keyboard": "Razer Chroma™ RGB Backlit Keyboard with Per-Key",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Alienware",
+    "price": "₹2,37,890",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/k/h/r/-original-imagz77t4hh8v4fw.jpeg?q=70&crop=false",
+    "description": "Alienware x17 (2023) Intel Core i9 12th Gen 12900HK - (64 GB/2 TB SSD/Windows 11 Pro) x17 A17D-98329GRY-PUS Laptop (17.3 Inch, Dark Side of the Moon, 3.24 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "x17",
+    "part_number": "A17D-98329GRY-PUS",
+    "model_name": "Alienware x17 (2023)",
+    "series": "Alienware",
+    "color": "Dark Side of the Moon",
+    "type": "Laptop",
+    "suitable_for": "Gaming",
+    "battery_cell": "Not Available",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i9",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "2 TB",
+      "ram": "64 GB",
+      "ram_type": "DDR5",
+      "processor_variant": "12900HK",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3080 Ti"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt 4 with Power Delivery & DisplayPort, 2 x USB 3.2 Gen 1 Type-A, 1 x USB 3.2 Gen 1 Type-C™ with Power Delivery & DisplayPort"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "43.94 cm (17.3 Inch)",
+      "screen_resolution": "3840 x 2400 Pixel",
+      "screen_type": "QHD (2560 x 1440) 165Hz, 400 nits, G-SYNC",
+      "speakers": "Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Killer™ Wi-Fi 6E (ax) 2x2 Wireless LAN",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "3.24 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "Alienware HD (1280 x 720 resolution) camera",
+      "finger_print_sensor": "No",
+      "keyboard": "Alienware mSeries 4-Zone AlienFX RGB keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Gigabyte",
+    "price": "₹1,64,990",
+    "description": "Gigabyte AERO 15 OLED (2023) Intel Core i7 13th Gen 12750H - (32 GB/512 GB SSD/Windows 11 Pro) AERO 15 OLED SA-7US5130SH Laptop (15.6 Inch, Black, 2.1 Kg, With MS Office)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/5/o/-original-imagsbrag7zaqhgg.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "AERO 15 OLED",
+    "part_number": "SA-7US5130SH",
+    "model_name": "AERO 15 OLED (2023)",
+    "series": "AERO",
+    "color": "Black",
+    "type": "Laptop",
+    "suitable_for": "Content Creation",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "32 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "12750H",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3060"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "3 x USB 3.2 Gen 1 (Type-A), 1 x Thunderbolt™ 4 (Type-C), 1 x HDMI 2.1, 1 x mini DP 1.4, 1 x 3.5mm Headphone/Microphone Combo Jack"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "3840 x 2160 Pixel",
+      "screen_type": "OLED Panel, 100% DCI-P3, 3mm Thin Bezel, X-Rite Pantone Certified, Delta E<1",
+      "speakers": "Nahimic 3 Audio, 2 x 2 Watt Speaker",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Killer™ Wi-Fi 6 AX1650 (802.11ax), Bluetooth v5.2"
+    },
+    "dimensions": {
+      "weight": "2.1 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Camera",
+      "finger_print_sensor": "No",
+      "keyboard": "GIGABYTE Fusion RGB Per-Key Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "2 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "2 Year"
+    }
+  },
+  {
+    "brand": "Asus",
+    "price": "₹2,84,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/8/b/w/-original-imagz42t6kzzjrcx.jpeg?q=70&crop=false",
+    "description": "Asus ROG Zephyrus Duo (2023) Intel Core i7 12th Gen 12750H - (32 GB/1 TB SSD/Windows 11 Pro) ROG Zephyrus Duo GX751LM-HG115TS Laptop (15.6 Inch, Celestial Blue, 2.4 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "ROG Zephyrus Duo",
+    "part_number": "GX751LM-HG115TS",
+    "model_name": "ROG Zephyrus Duo (2023)",
+    "series": "ROG",
+    "color": "Celestial Blue",
+    "type": "Laptop",
+    "suitable_for": "Gaming",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR5",
+      "processor_variant": "12750H",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3060"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Gen 2 Type-A, 2 x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery / G-SYNC, 1 x HDMI 2.0b, 1 x 3.5mm Combo Audio Jack"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "3840 x 2160 Pixel",
+      "screen_type": "4K UHD Display, 120Hz, 3ms Response Time, 100% Adobe, PANTONE Validated, G-SYNC",
+      "speakers": "2 x 4W speakers, 2 x 2W tweeter, 1 x Smart AMP Technology",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel Wi-Fi 6E (Gig+)(802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "2.4 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "FHD 1080p@60fps external camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Opti-mechanical per-key RGB keyboard, Aura Sync, Hot keys: Volume up / Volume down / Microphone mute / Armoury Crate",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Global Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "HP",
+    "price": "₹79,490",
+    "description": "HP Pavilion Aero 13 (2023) AMD Ryzen 7 6000 Series 6800U - (16 GB/1 TB SSD/Windows 11 Home) Pavilion Aero 13 Laptop (13.3 Inch, Natural Silver, 0.97 Kg, With MS Office)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/m/m/8/-original-imagykgqcnp38ggy.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Pavilion Aero 13",
+    "part_number": "2E5F9AV_1",
+    "model_name": "Pavilion Aero 13 (2023)",
+    "series": "Pavilion",
+    "color": "Natural Silver",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 7",
+      "processor_generation": "6000 Series",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "6800U",
+      "clock_speed": "Max Turbo Frequency up to 4.2 GHz",
+      "graphic_processor": "Integrated AMD Radeon Graphics"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x SuperSpeed USB Type-C (10Gbps signaling rate, Power Delivery 3.0, DisplayPort 1.4, HP Sleep and Charge), 2 x SuperSpeed USB Type-A (5Gbps signaling rate)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "33.78 cm (13.3 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "WUXGA IPS micro-edge BrightView, 400 nits, 100% sRGB",
+      "speakers": "Audio by B&O, Dual speakers, HP Audio Boost"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel Wi-Fi 6 AX200 (2x2) and Bluetooth 5.2 Combo (Supporting Gigabit file transfer speeds)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "0.97 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size, backlit, natural silver keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Dell",
+    "price": "₹1,35,000",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/w/z/-original-imagzfwf9ncawufs.jpeg?q=70&crop=false",
+    "description": "Dell XPS 15 (2023) Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) XPS 15 9510 Laptop (15.6 Inch, Platinum Silver, 1.83 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "XPS 15 9510",
+    "part_number": "WX4JN",
+    "model_name": "XPS 15 (2023)",
+    "series": "XPS",
+    "color": "Platinum Silver",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "6 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR5",
+      "processor_variant": "12700H",
+      "clock_speed": "Max Turbo Frequency up to 5.0 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3050"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt™ 4, 1 x USB-C 3.2 Gen 2, 1 x Full size SD card reader v7.0"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "3840 x 2400 Pixel",
+      "screen_type": "UHD OLED InfinityEdge Anti-Reflective Touch Display, 100% Adobe RGB, 94% DCI-P3, 500 nits, HDR400 True Black, Eyesafe® display, Dolby Vision, DisplayHDR™ 400 certified",
+      "speakers": "Waves Nx® 3D audio with 4 x 2W = 8W total peak",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Killer™ Wi-Fi 6E AX1650 (2x2) and Bluetooth 5.2",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.83 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p at 30 fps HD camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full size, backlit chiclet keyboard; 1.3mm travel",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Lenovo",
+    "price": "₹70,499",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/9/q/-original-imagzzf9vhvjuzfw.jpeg?q=70&crop=false",
+    "description": "Lenovo IdeaPad Gaming 3 (2023) Intel Core i5 12th Gen 12300H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 15.6 Inch, Phantom Black, 2.25 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "IdeaPad Gaming 3",
+    "part_number": "82K200G1IN",
+    "model_name": "IdeaPad Gaming 3 (2023)",
+    "series": "IdeaPad",
+    "color": "Phantom Black",
+    "type": "Laptop",
+    "suitable_for": "Processing & Gaming",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i5",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR5",
+      "processor_variant": "12300H",
+      "clock_speed": "2.4 GHz with Turbo Boost Upto 4.2 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3050"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "2 x USB 3.2 Gen 1 (1st Gen), 1 x USB 3.2 Type C (1st Gen) (with Power-off Charging), 1 x HDMI Port (v2.1), 1 x RJ45 – LAN port"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD LED Backlit Anti-glare IPS Display (250 nits Brightness, 45% NTSC Color Gamut, 120Hz Refresh Rate)",
+      "speakers": "2 x 2W Stereo Speakers with Nahimic 3 Audio",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 802.11ax",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "2.25 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam (0.9MP), 720p with Privacy Shutter",
+      "finger_print_sensor": "No",
+      "keyboard": "Full-size Blue LED Backlit Keyboard with 100N Key",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "LG",
+    "price": "₹82,990",
+    "description": "LG Gram 17 (2023) Intel Core i7 12th Gen 12700H - (16 GB/1 TB SSD/Windows 11 Pro) 17Z90Q-GR76K Laptop (17 Inch, Dark Silver, 1.35 Kg, With MS Office)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/9/1/-original-imagsz6yhngzhh7w.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "LG Gram 17",
+    "part_number": "17Z90Q-GR76K",
+    "model_name": "LG Gram 17 (2023)",
+    "series": "Gram",
+    "color": "Dark Silver",
+    "type": "Laptop",
+    "suitable_for": "Processing & Multitasking",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR5",
+      "processor_variant": "12700H",
+      "clock_speed": "2.4 GHz with Turbo Boost Upto 4.8 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 4.0 Type-C, 3 x USB 3.2 (Gen2) Type-A, 1 x HDMI Port (2.0), 1 x Headphone and Microphone Combo Jack, 1 x MicroSD Card Reader"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "43.18 cm (17 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "WQXGA IPS, 99% DCI-P3 (Typ), 500 nits, Non-Touch, sRGB 99%, PANTONE Validated",
+      "speakers": "Stereo Speaker, Max 1.5W x 2, Smart Amp",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel Wi-Fi 6 AX201 (Wi-Fi 6 , 2x2, BT Combo), Bluetooth v5.1"
+    },
+    "dimensions": {
+      "weight": "1.35 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam with Dual Array Microphone",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Keyboard (Single White), 1.2mm Key Pitch, 19mm Key Pitch",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited International Hardware Warranty",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "HP",
+    "price": "₹1,32,490",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/q/5/o/15-fe0014tx-laptop-hp-original-imagrdpf8degshy8.jpeg?q=70&crop=false",
+    "description": "HP Envy x360 (2023) AMD Ryzen 7 5th Gen 5700U - (32 GB/1 TB SSD/Windows 11 Home) 2V8P8AV_1 Convertible Laptop (15.6 Inch, Nightfall Black, 1.8 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Envy x360",
+    "part_number": "2V8P8AV_1",
+    "model_name": "Envy x360 (2023)",
+    "series": "Envy",
+    "color": "Nightfall Black",
+    "type": "Convertible Laptop",
+    "suitable_for": "Multimedia & Entertainment",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 7",
+      "processor_generation": "5th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "5700U",
+      "clock_speed": "2.3 GHz with Turbo Boost Upto 4 GHz",
+      "graphic_processor": "AMD Radeon Graphics"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Gen 2 Type-C, 2 x USB 3.2 Gen 2 Type-A, 1 x HDMI Port (2.0)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD IPS micro-edge WLED-backlit Touch Display",
+      "speakers": "Dual Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.8 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HP Wide Vision 720p HD camera with camera shutter",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Acer",
+    "price": "₹48,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/d/w/-original-imagu3kwas7j6g6a.jpeg?q=70&crop=false",
+    "description": "Acer Aspire 7 (2023) AMD Ryzen 9 5th Gen 5900HX - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) NH.QCQSI.001 Gaming Laptop (17.3 Inch, Charcoal Black, 2.5 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Aspire 7",
+    "part_number": "NH.QCQSI.001",
+    "model_name": "Aspire 7 (2023)",
+    "series": "Aspire",
+    "color": "Charcoal Black",
+    "type": "Gaming Laptop",
+    "suitable_for": "Gaming & Multitasking",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "AMD",
+      "processor_name": "Ryzen 9",
+      "processor_generation": "5th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "5900HX",
+      "clock_speed": "3.3 GHz with Turbo Boost Upto 4.6 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3080"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Gen 2 Type-C (Thunderbolt 4), 2 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "43.94 cm (17.3 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD LED Backlit ComfyView IPS Display",
+      "speakers": "2 x Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Killer Wi-Fi 6 AX1650i (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "2.5 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam (1280 x 720)",
+      "finger_print_sensor": "No",
+      "keyboard": "Full-size Backlit Keyboard with Independent Numeric Keypad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year International Travelers Warranty (ITW)",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "MSI",
+    "price": "₹54,990",
+    "description": "MSI GF65 Thin (2023) Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics) 10UE-091IN Gaming Laptop (15.6 Inch, Black, 1.86 Kg)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/v/y/modern-14-c12m-459in-thin-and-light-laptop-msi-original-imagz4w6whjkzhat.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "GF65 Thin",
+    "part_number": "10UE-091IN",
+    "model_name": "GF65 Thin (2023)",
+    "series": "GF65",
+    "color": "Black",
+    "type": "Gaming Laptop",
+    "suitable_for": "Gaming & Multitasking",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "12700H",
+      "clock_speed": "2.4 GHz with Turbo Boost Upto 4.8 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3050 Ti"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Type-C, 2 x USB 3.2 (Gen1) Type-A, 1 x USB 3.2 (Gen2) Type-A, 1 x HDMI Port (4K@60Hz)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD LED Backlit IPS Display",
+      "speakers": "Built-in Dual Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel Wi-Fi 6 AX201 (2x2 ax) + Bluetooth v5.2"
+    },
+    "dimensions": {
+      "weight": "1.86 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam (720p HD)",
+      "finger_print_sensor": "No",
+      "keyboard": "Backlit Gaming Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "2 Years Carry In Warranty",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "Dell",
+    "price": "₹52,200",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/9/g/9/inspiron-3520-laptop-dell-original-imagtegwwhwk9ghn.jpeg?q=70&crop=false",
+    "description": "Dell Inspiron (2023) Intel Core i5 12th Gen 12500H - (8 GB/256 GB SSD/Windows 11 Home) V566312WIN9 Laptop (15.6 Inch, Platinum Silver, 1.63 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Inspiron",
+    "part_number": "V566312WIN9",
+    "model_name": "Inspiron (2023)",
+    "series": "Inspiron",
+    "color": "Platinum Silver",
+    "type": "Laptop",
+    "suitable_for": "Entertainment & Processing",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i5",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "256 GB",
+      "ram": "8 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "12500H",
+      "clock_speed": "2.5 GHz with Turbo Boost Upto 4.6 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 (Gen 1) Type-A, 1 x USB 3.2 (Gen 1) Type-C, 2 x USB 2.0 Type-A"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD LED Backlit Anti-glare Narrow Border WVA Display",
+      "speakers": "Stereo Speakers with Waves MaxxAudio Pro",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "802.11ac 2x2 WiFi",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.63 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "HD Webcam (720p)",
+      "finger_print_sensor": "No",
+      "keyboard": "Standard English Non-Backlit Keyboard",
+      "backlit_keyboard": "No"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Lenovo",
+    "price": "₹69,345",
+    "description": "Lenovo ThinkPad E14 Gen 4 (2023) Intel Core i3 13th Gen 1335G4 - (8 GB/256 GB SSD/Windows 11 Pro) 82V300C4IN Laptop (14 Inch, Black, 1.5 Kg, With MS Office)",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/v/d/tp-e14-gen-5-thin-and-light-laptop-lenovo-original-imags8wwkum3gzbz.jpeg?q=70&crop=false",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "ThinkPad E14 Gen 4",
+    "part_number": "82V300C4IN",
+    "model_name": "ThinkPad E14 Gen 4 (2023)",
+    "series": "ThinkPad",
+    "color": "Black",
+    "type": "Laptop",
+    "suitable_for": "Business & Personal Use",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i3",
+      "processor_generation": "13th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "256 GB",
+      "ram": "8 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "1335G4",
+      "clock_speed": "2.4 GHz with Turbo Boost Upto 4.1 GHz",
+      "graphic_processor": "Intel Integrated Iris Xe"
+    },
+    "operating_system": "Windows 11 Pro",
+    "port_and_slot_features": {
+      "usb_port": "1 x USB 3.2 Gen 2 Type-C (Power Delivery & DisplayPort), 2 x USB 3.2 Gen 1, 1 x USB 2.0"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "35.56 cm (14 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD IPS Anti-glare Display",
+      "speakers": "2 x 2W Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Intel Wi-Fi 6 AX201 (2x2) + Bluetooth v5.2"
+    },
+    "dimensions": {
+      "weight": "1.5 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Camera with Fixed Focus",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "3 Years Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "3 Years"
+    }
+  },
+  {
+    "brand": "Apple",
+    "price": "₹76,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70&crop=false",
+    "description": "Apple MacBook Air (2023) Apple M1 8-core - (8 GB/512 GB SSD/Mac OS) MVH22HN/A Thin and Light Laptop (13.3 Inch, Space Grey, 1.29 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "MacBook Air",
+    "part_number": "MVH22HN/A",
+    "model_name": "MacBook Air (2023)",
+    "series": "MacBook",
+    "color": "Space Grey",
+    "type": "Thin and Light Laptop",
+    "suitable_for": "Processing & Entertainment",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Apple",
+      "processor_name": "M1",
+      "processor_generation": "8-core",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "8 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "7-core",
+      "clock_speed": "3.2 GHz",
+      "graphic_processor": "Apple Integrated 7-core GPU"
+    },
+    "operating_system": "Mac OS",
+    "port_and_slot_features": {
+      "usb_port": "2 x Thunderbolt 4 (USB4) Ports with Support for Charging, DisplayPort, Thunderbolt (up to 40 Gbps), USB 3.1 Gen 2 (up to 10 Gbps)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "33.78 cm (13.3 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "Retina Display with True Tone Technology",
+      "speakers": "Stereo Speakers with Wide Stereo Sound",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.29 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p FaceTime HD Camera",
+      "finger_print_sensor": "No",
+      "keyboard": "Magic Keyboard with Backlighting",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year International Limited Warranty (30 Days Money Back Guarantee)",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "price": "₹1,69,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/v/d/-original-imagqtrgjwhsafpa.jpeg?q=70&crop=false",
+    "description": "Samsung Galaxy Book Pro 360 (2023) Intel Core i7 11th Gen 1165G7 - (16 GB/512 GB SSD/Windows 11 Home) NP950QDB-KF1IN Convertible Laptop (15.6 Inch, Mystic Silver, 1.07 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Galaxy Book Pro 360",
+    "part_number": "NP950QDB-KF1IN",
+    "model_name": "Galaxy Book Pro 360 (2023)",
+    "series": "Galaxy Book",
+    "color": "Mystic Silver",
+    "type": "Convertible Laptop",
+    "suitable_for": "Multimedia & Business Use",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "11th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "1165G7",
+      "clock_speed": "2.8 GHz with Turbo Boost Upto 4.7 GHz",
+      "graphic_processor": "Intel Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x Thunderbolt 4 (USB4), 2 x USB Type C (USB 3.2 Gen 1) with DisplayPort and Power Delivery, 1 x MicroSD Multi-media Card Reader"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "Yes",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "1920 x 1080 Pixel",
+      "screen_type": "Full HD Super AMOLED Touch Display",
+      "speakers": "Sound by AKG",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E (Gig+) (802.11ax)",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.07 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Keyboard with Numeric Keypad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "price": "₹75,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/r/r/x/-original-imagykgqmdz3rczq.jpeg?q=70&crop=false",
+    "description": "Huawei MateBook 14 (2023) Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) KLW-WAA9 Thin and Light Laptop (14 Inch, Space Grey, 1.39 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "MateBook 14",
+    "part_number": "KLW-WAA9",
+    "model_name": "MateBook 14 (2023)",
+    "series": "MateBook",
+    "color": "Space Grey",
+    "type": "Thin and Light Laptop",
+    "suitable_for": "Multimedia & Business Use",
+    "battery_cell": "3 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i5",
+      "processor_generation": "12th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "512 GB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "1235U",
+      "clock_speed": "2.2 GHz with Turbo Boost Upto 4.5 GHz",
+      "graphic_processor": "Intel Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "2 x USB Type-C, 1 x USB 3.2 Gen 1 Type-A, 1 x HDMI Port"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "35.56 cm (14 Inch)",
+      "screen_resolution": "2160 x 1440 Pixel",
+      "screen_type": "3:2 aspect ratio, IPS FullView Display",
+      "speakers": "2 x Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "1.39 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Recessed Camera",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Onsite Warranty",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  },
+  {
+    "brand": "LG",
+    "price": "₹1,12,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/x/r/d/-original-imagp7w2wgf5ense.jpeg?q=70&crop=false",
+    "description": "LG Gram 17 (2023) Intel Core i7 11th Gen 1165G7 - (16 GB/1 TB SSD/Windows 11 Home) 17Z90QDG-M.AX73A3 Thin and Light Laptop (17 Inch, Dark Silver, 1.35 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Gram 17",
+    "part_number": "17Z90QDG-M.AX73A3",
+    "model_name": "Gram 17 (2023)",
+    "series": "Gram",
+    "color": "Dark Silver",
+    "type": "Thin and Light Laptop",
+    "suitable_for": "Entertainment & Business Use",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "11th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "16 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "1165G7",
+      "clock_speed": "2.8 GHz with Turbo Boost Upto 4.7 GHz",
+      "graphic_processor": "Intel Iris Xe"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "3 x USB 3.2 Type-A (Gen 1), 1 x USB 4 Type-C with Thunderbolt 4 Support, 1 x HDMI Port"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "43.18 cm (17 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "WQXGA IPS Display",
+      "speakers": "Stereo Speaker (2W x 2)",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.35 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Webcam",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Backlit Keyboard with Numeric Keypad",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year International Travelers Warranty (ITW)",
+      "warranty_service_type": "Onsite",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "Razer",
+    "price": "₹50,990",
+    "imageUrl": "https://m.media-amazon.com/images/I/41XOx683L9L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Razer Blade 15 (2023) Intel Core i9 11th Gen 11900H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics) RZ09-0409CE53-R3U1 Gaming Laptop (15.6 Inch, Mercury White, 2.1 Kg)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Blade 15",
+    "part_number": "RZ09-0409CE53-R3U1",
+    "model_name": "Blade 15 (2023)",
+    "series": "Blade",
+    "color": "Mercury White",
+    "type": "Gaming Laptop",
+    "suitable_for": "Gaming & Content Creation",
+    "battery_cell": "4 Cell",
+    "ms_office_provided": "No",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i9",
+      "processor_generation": "11th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "32 GB",
+      "ram_type": "DDR4",
+      "processor_variant": "11900H",
+      "clock_speed": "2.5 GHz with Turbo Boost Upto 4.9 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3080"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "3 x USB 3.2 Type-A, 1 x USB Type-C (Thunderbolt 4)"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "39.62 cm (15.6 Inch)",
+      "screen_resolution": "3840 x 2160 Pixel",
+      "screen_type": "4K OLED Touch Display",
+      "speakers": "Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6E (802.11ax)",
+      "bluetooth": "v5.2"
+    },
+    "dimensions": {
+      "weight": "2.1 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "IR HD Webcam (Windows Hello)",
+      "finger_print_sensor": "No",
+      "keyboard": "Per-Key RGB Backlit Keyboard",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty on Parts and Labor",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "Not Covered"
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "price": "₹80,990",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/3/d/d/vostro-3520-laptop-dell-original-imagrzyeggvexpky.jpeg?q=70&crop=false",
+    "description": "Xiaomi Mi Notebook Pro X (2023) Intel Core i7 11th Gen 11800H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics) XMB-PRO-X-2023 Laptop (16 Inch, Space Grey, 1.9 Kg, With MS Office)",
+    "sales_package": "Laptop, battery, power adapter, user guide",
+    "model_number": "Mi Notebook Pro X",
+    "part_number": "XMB-PRO-X-2023",
+    "model_name": "Mi Notebook Pro X (2023)",
+    "series": "Mi Notebook",
+    "color": "Space Grey",
+    "type": "Laptop",
+    "suitable_for": "Processing & Content Creation",
+    "battery_cell": "6 Cell",
+    "ms_office_provided": "Yes",
+    "processor_and_memory_features": {
+      "processor_brand": "Intel",
+      "processor_name": "Core i7",
+      "processor_generation": "11th Gen",
+      "ssd": "Yes",
+      "ssd_capacity": "1 TB",
+      "ram": "16 GB",
+      "ram_type": "LPDDR4X",
+      "processor_variant": "11800H",
+      "clock_speed": "2.3 GHz with Turbo Boost Upto 4.6 GHz",
+      "graphic_processor": "NVIDIA GeForce RTX 3050 Ti"
+    },
+    "operating_system": "Windows 11 Home",
+    "port_and_slot_features": {
+      "usb_port": "1 x Thunderbolt 4 (Support Data, DisplayPort and Power Delivery), 1 x USB Type-C (Support Data, DisplayPort and Power Delivery), 1 x USB 3.2 Gen 1, 2 x USB 2.0"
+    },
+    "display_and_audio_features": {
+      "touchscreen": "No",
+      "screen_size": "40.64 cm (16 Inch)",
+      "screen_resolution": "2560 x 1600 Pixel",
+      "screen_type": "16:10 Ratio 2.5K Display",
+      "speakers": "2 x 2W Stereo Speakers",
+      "internal_mic": "Yes"
+    },
+    "connectivity_features": {
+      "wireless_lan": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "v5.1"
+    },
+    "dimensions": {
+      "weight": "1.9 Kg"
+    },
+    "additional_features": {
+      "disk_drive": "Not Available",
+      "web_camera": "720p HD Webcam with Dual Array Microphone",
+      "finger_print_sensor": "Yes",
+      "keyboard": "Full-size Backlit Keyboard with 1.3mm Key Travel",
+      "backlit_keyboard": "Yes"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Domestic Warranty",
+      "warranty_service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage",
+      "domestic_warranty": "1 Year"
+    }
+  }
+]

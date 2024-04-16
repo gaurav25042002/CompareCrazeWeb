@@ -1,0 +1,490 @@
+[
+  {
+    "brand": "Sony",
+    "model": "PlayStation 5",
+    "price": "₹44,990",
+    "description": "Sony PlayStation 5 gaming console with 825GB SSD storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/gamingconsole/z/b/w/-original-imagtk7vfbzqbjg6.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "PlayStation 5",
+      "color": "White",
+      "storage_capacity": "825 GB SSD"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Zen 2",
+      "cpu_cores": "8-core",
+      "gpu_cores": "10.28 TFLOPs, 36 CUs @ 2.23 GHz"
+    },
+    "memory_features": {
+      "ram_type": "GDDR6",
+      "ram_capacity": "16 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Custom NVMe SSD",
+      "storage_capacity": "825 GB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 5.1",
+      "wi_fi": "Wi-Fi 6",
+      "usb_ports": "USB Type-A, USB Type-C"
+    },
+    "power_features": {
+      "power_supply": "Built-in power supply",
+      "power_consumption": "350W"
+    },
+    "dimensions": {
+      "width": "390 mm",
+      "height": "104 mm",
+      "depth": "260 mm",
+      "weight": "4.5 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Microsoft",
+    "model": "Xbox Series X",
+    "price": "₹60,990",
+    "description": "Microsoft Xbox Series X gaming console with 1TB SSD storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/gamingconsole/s/f/a/1024-series-x-console-xbox-1-original-imaggb75qcbhywsz.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Microsoft",
+      "model_name": "Xbox Series X",
+      "color": "Black",
+      "storage_capacity": "1 TB SSD"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Zen 2",
+      "cpu_cores": "8-core",
+      "gpu_cores": "12 TFLOPs, 52 CUs @ 1.825 GHz"
+    },
+    "memory_features": {
+      "ram_type": "GDDR6",
+      "ram_capacity": "16 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Custom NVMe SSD",
+      "storage_capacity": "1 TB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 5.0",
+      "wi_fi": "Wi-Fi 5",
+      "usb_ports": "USB Type-A, USB Type-C"
+    },
+    "power_features": {
+      "power_supply": "Built-in power supply",
+      "power_consumption": "315W"
+    },
+    "dimensions": {
+      "width": "151 mm",
+      "height": "151 mm",
+      "depth": "301 mm",
+      "weight": "4.45 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Nintendo",
+    "model": "Nintendo Switch",
+    "price": "₹60,990",
+    "description": "Nintendo Switch gaming console with 32GB internal storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kpr8k280/joystick/f/f/4/switch-pro-controller-monster-hunter-rise-edition-nintendo-original-imag3x68w6zhgecy.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Nintendo",
+      "model_name": "Nintendo Switch",
+      "color": "Neon Blue/Neon Red",
+      "storage_capacity": "32 GB"
+    },
+    "processor_features": {
+      "processor_type": "NVIDIA Custom Tegra processor",
+      "cpu_cores": "Octa-core"
+    },
+    "memory_features": {
+      "ram_type": "LPDDR4",
+      "ram_capacity": "4 GB"
+    },
+    "display_features": {
+      "display_type": "6.2-inch LCD",
+      "display_resolution": "1280 x 720 pixels",
+      "touchscreen": true
+    },
+    "storage_features": {
+      "storage_type": "Internal Storage + microSD card slot",
+      "storage_capacity": "32 GB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 4.1",
+      "wi_fi": "Wi-Fi 802.11ac"
+    },
+    "battery_features": {
+      "battery_capacity": "4310 mAh",
+      "battery_life": "Approx. 4.5-9 hours"
+    },
+    "dimensions": {
+      "width": "102 mm",
+      "height": "239 mm",
+      "depth": "13.9 mm (with Joy-Con attached)",
+      "weight": "297 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "PlayStation 4 Pro",
+    "price": "₹30,900",
+    "description": "Sony PlayStation 4 Pro gaming console with 1TB storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/gamingconsole/e/c/m/500-ps4-slim-console-sony-yes-original-imagykezvy9qwj4v.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "PlayStation 4 Pro",
+      "color": "Jet Black",
+      "storage_capacity": "1 TB"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Jaguar",
+      "cpu_cores": "8-core",
+      "gpu_cores": "4.20 TFLOPs, AMD Radeon"
+    },
+    "memory_features": {
+      "ram_type": "GDDR5",
+      "ram_capacity": "8 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Internal HDD",
+      "storage_capacity": "1 TB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 4.0",
+      "wi_fi": "Wi-Fi 802.11ac",
+      "usb_ports": "USB 3.1, USB 2.0"
+    },
+    "dimensions": {
+      "width": "327 mm",
+      "height": "265 mm",
+      "depth": "55 mm",
+      "weight": "3.3 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Microsoft",
+    "model": "Xbox One X",
+    "price": "₹2,990",
+    "description": "Microsoft Xbox One X gaming console with 1TB storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/gamingconsole/s/f/r/2-wireless-controller-xbox-x-s-x-s-windows-10-11-controller-2-original-imagzm9ggvunahfu.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Microsoft",
+      "model_name": "Xbox One X",
+      "color": "Black",
+      "storage_capacity": "1 TB"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Jaguar",
+      "cpu_cores": "8-core",
+      "gpu_cores": "6 TFLOPs, AMD Radeon"
+    },
+    "memory_features": {
+      "ram_type": "GDDR5",
+      "ram_capacity": "12 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Internal HDD",
+      "storage_capacity": "1 TB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 4.0",
+      "wi_fi": "Wi-Fi 802.11ac",
+      "usb_ports": "USB 3.0"
+    },
+    "dimensions": {
+      "width": "299 mm",
+      "height": "240 mm",
+      "depth": "60 mm",
+      "weight": "3.81 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Nintendo",
+    "model": "Nintendo Switch Lite",
+    "price": "₹29,990",
+    "description": "Nintendo Switch Lite gaming console with 32GB internal storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kuipea80/gamingconsole/5/i/p/64-switch-oled-console-with-white-joy-con-nintendo-no-original-imag7mpazcwwfr9f.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Nintendo",
+      "model_name": "Nintendo Switch Lite",
+      "color": "Yellow",
+      "storage_capacity": "32 GB"
+    },
+    "processor_features": {
+      "processor_type": "NVIDIA Custom Tegra processor",
+      "cpu_cores": "Octa-core"
+    },
+    "memory_features": {
+      "ram_type": "LPDDR4",
+      "ram_capacity": "4 GB"
+    },
+    "display_features": {
+      "display_type": "5.5-inch LCD",
+      "display_resolution": "1280 x 720 pixels",
+      "touchscreen": true
+    },
+    "storage_features": {
+      "storage_type": "Internal Storage + microSD card slot",
+      "storage_capacity": "32 GB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 4.1",
+      "wi_fi": "Wi-Fi 802.11ac"
+    },
+    "battery_features": {
+      "battery_capacity": "3570 mAh",
+      "battery_life": "Approx. 3-7 hours"
+    },
+    "dimensions": {
+      "width": "91.1 mm",
+      "height": "208 mm",
+      "depth": "13.9 mm",
+      "weight": "275 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "PlayStation 4 Slim",
+    "price": "₹32,990",
+    "description": "Sony PlayStation 4 Slim gaming console with 1TB storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/jddesnk0/gamingconsole/y/q/y/1-playstation-4-ps4-slim-sony-na-original-imaf2an4zcfp3hzv.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "PlayStation 4 Slim",
+      "color": "Jet Black",
+      "storage_capacity": "1 TB"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Jaguar",
+      "cpu_cores": "8-core",
+      "gpu_cores": "1.84 TFLOPs, AMD Radeon"
+    },
+    "memory_features": {
+      "ram_type": "GDDR5",
+      "ram_capacity": "8 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Internal HDD",
+      "storage_capacity": "1 TB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 2.1",
+      "wi_fi": "Wi-Fi 802.11n",
+      "usb_ports": "USB 3.1, USB 2.0"
+    },
+    "dimensions": {
+      "width": "265 mm",
+      "height": "39 mm",
+      "depth": "288 mm",
+      "weight": "2.1 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Microsoft",
+    "model": "Xbox One S",
+    "price": "₹50,990",
+    "description": "Microsoft Xbox One S gaming console with 1TB storage.",
+    "imageUrl": "https://m.media-amazon.com/images/I/61vltr4fVRL._SX679_.jpg",
+    "general": {
+      "brand": "Microsoft",
+      "model_name": "Xbox One S",
+      "color": "Robot White",
+      "storage_capacity": "1 TB"
+    },
+    "processor_features": {
+      "processor_type": "Custom AMD Jaguar",
+      "cpu_cores": "8-core",
+      "gpu_cores": "1.4 TFLOPs, AMD Radeon"
+    },
+    "memory_features": {
+      "ram_type": "DDR3",
+      "ram_capacity": "8 GB"
+    },
+    "display_features": {
+      "display_type": "Not Applicable",
+      "display_size": "Not Applicable"
+    },
+    "storage_features": {
+      "storage_type": "Internal HDD",
+      "storage_capacity": "1 TB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 4.0",
+      "wi_fi": "Wi-Fi 802.11n",
+      "usb_ports": "USB 3.1, USB 2.0"
+    },
+    "dimensions": {
+      "width": "295 mm",
+      "height": "65 mm",
+      "depth": "230 mm",
+      "weight": "2.9 kg"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Nintendo",
+    "model": "Nintendo 3DS XL",
+    "price": "₹19,000",
+    "description": "Nintendo 3DS XL gaming console with 4GB internal storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/gamingconsole/g/q/p/3ds-xl-mario-white-edition-4-nintendo-no-original-imaeqcvdext4xhgg.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Nintendo",
+      "model_name": "Nintendo 3DS XL",
+      "color": "Black",
+      "storage_capacity": "4 GB"
+    },
+    "processor_features": {
+      "processor_type": "Dual-Core ARM11 MPCore",
+      "cpu_cores": "Dual-core"
+    },
+    "memory_features": {
+      "ram_type": "FCRAM",
+      "ram_capacity": "128 MB"
+    },
+    "display_features": {
+      "display_type": "3D-enabled LCD",
+      "display_size": "4.88 inches"
+    },
+    "storage_features": {
+      "storage_type": "Internal Storage + microSD card slot",
+      "storage_capacity": "4 GB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Not Applicable",
+      "wi_fi": "Wi-Fi 802.11n"
+    },
+    "battery_features": {
+      "battery_capacity": "1750 mAh",
+      "battery_life": "Approx. 3.5-6.5 hours"
+    },
+    "dimensions": {
+      "width": "156 mm",
+      "height": "93 mm",
+      "depth": "22 mm",
+      "weight": "329 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "PlayStation Vita",
+    "price": "₹31,240",
+    "description": "Sony PlayStation Vita gaming console with 512MB internal storage.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/gamingconsole/l/t/o/500-playstation-brand-new-ps4-slim-console-sony-yes-original-imagyq6qsp9udqj7.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "PlayStation Vita",
+      "color": "Black",
+      "storage_capacity": "512 MB"
+    },
+    "processor_features": {
+      "processor_type": "ARM Cortex-A9",
+      "cpu_cores": "Quad-core"
+    },
+    "memory_features": {
+      "ram_type": "Not Applicable",
+      "ram_capacity": "512 MB"
+    },
+    "display_features": {
+      "display_type": "5-inch OLED",
+      "display_size": "5 inches"
+    },
+    "storage_features": {
+      "storage_type": "Internal Storage + Proprietary PS Vita memory card",
+      "storage_capacity": "512 MB"
+    },
+    "connectivity_features": {
+      "bluetooth": "Bluetooth 2.1",
+      "wi_fi": "Wi-Fi 802.11n"
+    },
+    "battery_features": {
+      "battery_capacity": "2210 mAh",
+      "battery_life": "Approx. 3-5 hours"
+    },
+    "dimensions": {
+      "width": "182 mm",
+      "height": "84 mm",
+      "depth": "19 mm",
+      "weight": "260 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  }
+]

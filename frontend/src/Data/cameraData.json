@@ -1,0 +1,796 @@
+[
+  {
+    "brand": "NIKON",
+    "model": "P950",
+    "price": "₹61,990",
+    "description": "NIKON Coolpix P950 camera with 83x optical zoom and 4K video resolution.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/k9oj8280/dslr-camera/y/h/2/coolpix-coolpix-p950-nikon-original-imafrexf5pw6q8ug.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "NIKON",
+      "model_number": "P950",
+      "series": "Coolpix",
+      "model_name": "P950",
+      "brand_color": "Black",
+      "color": "Black",
+      "effective_pixels": "16 MP",
+      "shooting_modes": "Approx. 99% horizontal and vertical (compared to actual picture)"
+    },
+    "sensor_features": {
+      "image_sensor_type": "CMOS",
+      "image_sensor_size": "50 cm",
+      "iso_rating": "ISO 100 to 1600 [100-400], [100-800], [100-1600] (default setting), [100-3200], [100-6400], [100], [200], [400], [800], [1600], [3200], and [6400] are available when using P, S, A, M, U, or Movie manual mode"
+    },
+    "lens_features": {
+      "focal_length": "4.3 - 357 mm",
+      "optical_zoom": "83x",
+      "digital_zoom": "Up to 4x (angle of view equivalent to that of approx. 8000 mm lens in 35mm [135] format) Up to 3.6x when recording movies with [2160/30p] (4K UHD) or [2160/25p] (4K UHD)"
+    },
+    "focus_features": {
+      "focus_range": "50 cm"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "3840 x 2160",
+      "video_quality": "4k"
+    },
+    "shutter_features": {
+      "shutter_speed": "1/4000 sec",
+      "self_timer": "Yes"
+    },
+    "display_features": {
+      "display_type": "LCD",
+      "display_size": "3.2 inch"
+    },
+    "storage_features": {
+      "flash_memory": 0,
+      "compatible_card": "SD Card"
+    },
+    "power_features": {
+      "batteries_included": "Yes",
+      "battery_type": "Lithium Battery",
+      "number_of_batteries": 1
+    },
+    "dimensions": {
+      "width": "140 mm",
+      "height": "109 mm",
+      "depth": "149 mm",
+      "weight": "1.5 kg"
+    },
+    "warranty": {
+      "warranty_summary": "2 Years Limited Warranty",
+      "service_type": "Walk In For Service",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Canon",
+    "model": "EOS Rebel T7",
+    "price": "₹30099",
+    "description": "Canon EOS Rebel T7 DSLR camera with 18-55mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/juwzf680/dslr-camera/g/a/q/200d-ii-200d-ii-canon-original-imaffvrhzyqzayys.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Canon",
+      "model_name": "EOS Rebel T7",
+      "color": "Black",
+      "effective_pixels": "24.1 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "22.3 x 14.9 mm",
+      "iso_rating": "ISO 100-6400 (expandable to H: 12800)"
+    },
+    "lens_features": {
+      "focal_length": "18-55 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "9 Point Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "Full HD 1080p",
+      "video_quality": "1080p"
+    },
+    "display_features": {
+      "display_type": "LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "Lithium-ion",
+      "battery_life": "Approx. 500 shots (Viewfinder), Approx. 250 shots (Live View)"
+    },
+    "dimensions": {
+      "width": "129 mm",
+      "height": "101.6 mm",
+      "depth": "77.1 mm",
+      "weight": "475 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Alpha a6400",
+    "price": "₹80099",
+    "description": "Sony Alpha a6400 Mirrorless camera with 16-50mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kw9krrk0/dslr-camera/1/h/j/-original-imag8z5weagzztda.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "Alpha a6400",
+      "color": "Black",
+      "effective_pixels": "24.2 MP",
+      "sensor_type": "APS-C Exmor CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "23.5 x 15.6 mm",
+      "iso_rating": "ISO 100-32000 (expandable to 102400)"
+    },
+    "lens_features": {
+      "focal_length": "16-50 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "425 Phase Detection Points"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card, Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2)"
+    },
+    "power_features": {
+      "battery_type": "NP-FW50 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 360 shots (Viewfinder), Approx. 410 shots (LCD monitor)"
+    },
+    "dimensions": {
+      "width": "120 mm",
+      "height": "66.9 mm",
+      "depth": "59.7 mm",
+      "weight": "403 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Fujifilm",
+    "model": "X-T4",
+    "price": "₹100699",
+    "description": "Fujifilm X-T4 Mirrorless camera with 18-55mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/ken59jk0/dslr-camera/c/d/y/x-t4-mirrorless-camera-body-with-xf-18-55mm-lens-x-t4-fujifilm-original-imafv9xzxunvxkng.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Fujifilm",
+      "model_name": "X-T4",
+      "color": "Silver",
+      "effective_pixels": "26.1 MP",
+      "sensor_type": "X-Trans CMOS 4"
+    },
+    "sensor_features": {
+      "image_sensor_size": "23.5 x 15.6 mm",
+      "iso_rating": "ISO 160-12800 (expandable to ISO 80-51200)"
+    },
+    "lens_features": {
+      "focal_length": "18-55 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "425 Points Hybrid AF system"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K UHD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "NP-W126S Rechargeable Lithium-ion",
+      "battery_life": "Approx. 500 shots (EVF), Approx. 600 shots (LCD monitor)"
+    },
+    "dimensions": {
+      "width": "134.6 mm",
+      "height": "92.8 mm",
+      "depth": "63.8 mm",
+      "weight": "607 g (including battery and SD card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Nikon",
+    "model": "D5600",
+    "price": "₹60096",
+    "description": "Nikon D5600 DSLR camera with 18-55mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/jrqo70w0/dslr-camera/e/d/c/d7500-d7500-nikon-original-imaf6n7gk7zkeybb.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Nikon",
+      "model_name": "D5600",
+      "color": "Black",
+      "effective_pixels": "24.2 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "23.5 x 15.6 mm",
+      "iso_rating": "ISO 100-25600"
+    },
+    "lens_features": {
+      "focal_length": "18-55 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "39 Points AF system"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "Full HD 1920 x 1080",
+      "video_quality": "1080p"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3.2 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "EN-EL14a Rechargeable Lithium-ion",
+      "battery_life": "Approx. 820 shots"
+    },
+    "dimensions": {
+      "width": "124 mm",
+      "height": "97 mm",
+      "depth": "70 mm",
+      "weight": "465 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Cyber-Shot DSC-RX100 VII",
+    "price": "₹100,298",
+    "description": "Sony Cyber-Shot DSC-RX100 VII compact camera with 20.1 MP and 24-200mm zoom lens.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/jnyxd3k0/point-shoot-camera/x/a/p/dsc-rx100m5a-rx-series-4548736086487-sony-original-imaf6rvfzrf45nzu.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Sony",
+      "model_name": "Cyber-Shot DSC-RX100 VII",
+      "color": "Black",
+      "effective_pixels": "20.1 MP",
+      "sensor_type": "Exmor RS CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "1 inch",
+      "iso_rating": "ISO 100-12800 (expandable to ISO 64-25600)"
+    },
+    "lens_features": {
+      "focal_length": "24-200 mm",
+      "optical_zoom": "8.3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "315 Points Phase Detection Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card, Memory Stick Duo, Memory Stick PRO Duo, Memory Stick PRO Duo (High Speed), Memory Stick PRO-HG Duo, Memory Stick Micro (M2)"
+    },
+    "power_features": {
+      "battery_type": "NP-BX1 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 260 shots (Viewfinder), Approx. 280 shots (LCD monitor)"
+    },
+    "dimensions": {
+      "width": "102 mm",
+      "height": "58 mm",
+      "depth": "43 mm",
+      "weight": "302 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Panasonic",
+    "model": "LUMIX DC-ZS70K",
+    "price": "₹92,990",
+    "description": "Panasonic LUMIX DC-ZS70K compact camera with 20.3 MP and 30x zoom lens.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/dslr-camera/d/9/u/g90mgw-k-20-3-g90mgw-k-panasonic-original-imagzknqcbyuwxhz.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Panasonic",
+      "model_name": "LUMIX DC-ZS70K",
+      "color": "Black",
+      "effective_pixels": "20.3 MP",
+      "sensor_type": "MOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "1/2.3 inch",
+      "iso_rating": "ISO 80-3200 (expandable to ISO 6400)"
+    },
+    "lens_features": {
+      "focal_length": "4.3-129 mm",
+      "optical_zoom": "30x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "49 Area Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "DMW-BLG10 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 380 shots"
+    },
+    "dimensions": {
+      "width": "112 mm",
+      "height": "67.3 mm",
+      "depth": "41.2 mm",
+      "weight": "322 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Olympus",
+    "model": "OM-D E-M10 Mark IV",
+    "price": "₹60099",
+    "description": "Olympus OM-D E-M10 Mark IV Mirrorless camera with 14-42mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/l3hmwsw0/dslr-camera/e/w/n/camera-e-m5-mark-iii-blk-20-om-d-e-m5-mark-iii-blk-olympus-original-imagehphwut7gzje.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Olympus",
+      "model_name": "OM-D E-M10 Mark IV",
+      "color": "Silver",
+      "effective_pixels": "20.3 MP",
+      "sensor_type": "Live MOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "17.4 x 13 mm",
+      "iso_rating": "ISO 200-25600"
+    },
+    "lens_features": {
+      "focal_length": "14-42 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "121 Point Contrast Detection AF"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "BLS-50 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 360 shots"
+    },
+    "dimensions": {
+      "width": "121.7 mm",
+      "height": "84.4 mm",
+      "depth": "49 mm",
+      "weight": "383 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Leica",
+    "model": "D-Lux 7",
+    "price": "₹100,195",
+    "description": "Leica D-Lux 7 compact camera with 17 MP and 24-75mm zoom lens.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/sports-action-camera/x/3/q/-original-imagt5usqhtgaf5q.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Leica",
+      "model_name": "D-Lux 7",
+      "color": "Black",
+      "effective_pixels": "17 MP",
+      "sensor_type": "MOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "4/3 inch",
+      "iso_rating": "ISO 100-25600"
+    },
+    "lens_features": {
+      "focal_length": "24-75 mm",
+      "optical_zoom": "3.1x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "49 Point Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Fixed LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "BP-DC15-U Rechargeable Lithium-ion",
+      "battery_life": "Approx. 300 shots"
+    },
+    "dimensions": {
+      "width": "118.8 mm",
+      "height": "66.2 mm",
+      "depth": "64.1 mm",
+      "weight": "403 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Pentax",
+    "model": "K-70",
+    "price": "₹66,699",
+    "description": "Pentax K-70 DSLR camera with 18-55mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/camera/v/s/w/pentax-k-5-ii-body-only-slr-original-imadtqdanegvcyz7.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Pentax",
+      "model_name": "K-70",
+      "color": "Black",
+      "effective_pixels": "24.24 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "23.5 x 15.6 mm",
+      "iso_rating": "ISO 100-102400"
+    },
+    "lens_features": {
+      "focal_length": "18-55 mm",
+      "optical_zoom": "3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "11 Point Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "Yes"
+    },
+    "video_features": {
+      "video_resolution": "Full HD 1920 x 1080",
+      "video_quality": "1080p"
+    },
+    "display_features": {
+      "display_type": "Tilting LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "D-LI109 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 410 shots"
+    },
+    "dimensions": {
+      "width": "125.5 mm",
+      "height": "93 mm",
+      "depth": "74 mm",
+      "weight": "688 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "Ricoh",
+    "model": "GR III",
+    "price": "₹80,096",
+    "description": "Ricoh GR III compact camera with 24.2 MP and 28mm fixed lens.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/screen-guard/j/i/o/super-143-wishguard-original-imagzczdfpxs4sja.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "Ricoh",
+      "model_name": "GR III",
+      "color": "Black",
+      "effective_pixels": "24.2 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "APS-C",
+      "iso_rating": "ISO 100-102400"
+    },
+    "lens_features": {
+      "focal_length": "28 mm",
+      "optical_zoom": "Fixed Lens"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "9 Point Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "No"
+    },
+    "video_features": {
+      "video_resolution": "Full HD 1920 x 1080",
+      "video_quality": "1080p"
+    },
+    "display_features": {
+      "display_type": "Fixed LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "SD, SDHC, SDXC memory card"
+    },
+    "power_features": {
+      "battery_type": "DB-110 Rechargeable Lithium-ion",
+      "battery_life": "Approx. 200 shots"
+    },
+    "dimensions": {
+      "width": "109.4 mm",
+      "height": "61.9 mm",
+      "depth": "33.2 mm",
+      "weight": "257 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "GoPro",
+    "model": "HERO9 Black",
+    "price": "₹30,049",
+    "description": "GoPro HERO9 Black action camera with 5K video and 20 MP photos.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/sports-action-camera/k/c/j/waterproof-hero11-2-27-23-chdhx-111-rw-gopro-original-imagg5bnxd5r3ac7.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "GoPro",
+      "model_name": "HERO9 Black",
+      "color": "Black",
+      "effective_pixels": "20 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "1/2.3 inch",
+      "iso_rating": "ISO 100-6400"
+    },
+    "lens_features": {
+      "focal_length": "16-34 mm",
+      "optical_zoom": "N/A"
+    },
+    "focus_features": {
+      "focus_type": "Fixed Focus",
+      "focus_range": "N/A"
+    },
+    "flash_features": {
+      "built_in_flash": "No"
+    },
+    "video_features": {
+      "video_resolution": "5K 30fps, 4K 60fps",
+      "video_quality": "5K"
+    },
+    "display_features": {
+      "display_type": "Touchscreen LCD",
+      "display_size": "2.27 inch"
+    },
+    "storage_features": {
+      "storage_type": "MicroSD (Class 10 or UHS-I rating)"
+    },
+    "power_features": {
+      "battery_type": "Rechargeable Lithium-ion",
+      "battery_life": "Approx. 100 minutes (5K@30fps)"
+    },
+    "dimensions": {
+      "width": "71.9 mm",
+      "height": "64.3 mm",
+      "depth": "33.6 mm",
+      "weight": "158 g (with battery)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "DJI",
+    "model": "Mavic Air 2",
+    "price": "₹70099",
+    "description": "DJI Mavic Air 2 drone with 4K 60fps video and 48 MP photos.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/camera-lens-protector/b/w/j/tempered-glass-scratch-guard-lens-protector-glass-drone-original-imagr5vprujarnf5.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "DJI",
+      "model_name": "Mavic Air 2",
+      "color": "Grey",
+      "effective_pixels": "48 MP",
+      "sensor_type": "CMOS"
+    },
+    "sensor_features": {
+      "image_sensor_size": "1/2 inch",
+      "iso_rating": "ISO 100-6400"
+    },
+    "lens_features": {
+      "focal_length": "24 mm",
+      "optical_zoom": "N/A"
+    },
+    "focus_features": {
+      "focus_type": "Fixed Focus",
+      "focus_range": "N/A"
+    },
+    "flash_features": {
+      "built_in_flash": "No"
+    },
+    "video_features": {
+      "video_resolution": "4K 60fps, 1080p 240fps",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Smart Controller",
+      "display_size": "N/A"
+    },
+    "storage_features": {
+      "storage_type": "MicroSD (UHS-I Speed Class 3 or above)"
+    },
+    "power_features": {
+      "battery_type": "Rechargeable Lithium-ion",
+      "battery_life": "Approx. 34 minutes"
+    },
+    "dimensions": {
+      "width": "183 mm",
+      "height": "253 mm",
+      "depth": "77 mm",
+      "weight": "570 g"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  },
+  {
+    "brand": "YI",
+    "model": "M1",
+    "price": "₹80,099",
+    "description": "YI M1 Mirrorless camera with 12-40mm Lens Kit.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/jpsnma80/dslr-camera/g/y/2/12-40mm-f2-8-pro-lens-mark-ii-olympus-original-imafbxpwfugzjnny.jpeg?q=70&crop=false",
+    "general": {
+      "brand": "YI",
+      "model_name": "M1",
+      "color": "Silver",
+      "effective_pixels": "20 MP",
+      "sensor_type": "Micro Four Thirds"
+    },
+    "sensor_features": {
+      "image_sensor_size": "17.3 x 13 mm",
+      "iso_rating": "ISO 100-25600"
+    },
+    "lens_features": {
+      "focal_length": "12-40 mm",
+      "optical_zoom": "3.3x"
+    },
+    "focus_features": {
+      "focus_type": "Auto & Manual",
+      "focus_range": "Contrast Detection Autofocus"
+    },
+    "flash_features": {
+      "built_in_flash": "No"
+    },
+    "video_features": {
+      "video_resolution": "4K Ultra HD 3840 x 2160",
+      "video_quality": "4K"
+    },
+    "display_features": {
+      "display_type": "Tilting Touchscreen LCD",
+      "display_size": "3 inch"
+    },
+    "storage_features": {
+      "storage_type": "MicroSD (Class 10 or UHS-1)"
+    },
+    "power_features": {
+      "battery_type": "Rechargeable Lithium-ion",
+      "battery_life": "Approx. 450 shots"
+    },
+    "dimensions": {
+      "width": "113.5 mm",
+      "height": "64.3 mm",
+      "depth": "33.6 mm",
+      "weight": "264 g (with battery and memory card)"
+    },
+    "warranty": {
+      "warranty_summary": "1 Year Limited Warranty",
+      "service_type": "Carry In",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damages"
+    }
+  }
+]

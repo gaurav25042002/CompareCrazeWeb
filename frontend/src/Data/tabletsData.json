@@ -1,0 +1,360 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Tab S7",
+    "price": "₹44,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/tablet/d/d/n/-original-imaggp4gtdze4hfd.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "SM-T870",
+      "Model Name": "Galaxy Tab S7",
+      "Ideal Usage": "Entertainment, Productivity",
+      "Color": "Mystic Black",
+      "Connectivity": "Wi-Fi + Cellular",
+      "OS": "Android",
+      "Operating System Version": "Android 11",
+      "RAM": "6 GB",
+      "Voice Call": "Yes",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "11 Inch",
+      "Sales Package": "Tablet, S Pen, Charging Cable, Charging Adapter, Quick Start Guide",
+      "Display Resolution": "2560 x 1600 Pixel",
+      "Primary Camera": "13.0 megapixels",
+      "Internal Storage": "128 GB",
+      "Processor Speed": "3.09 GHz",
+      "Sensors": "Accelerometer, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor",
+      "Sim Type": "Nano-SIM",
+      "ROM": "128 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "8000 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "8 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "LED Flash"
+    },
+    "Connectivity Features": {
+      "3G": "Yes",
+      "Bluetooth Version": "v5.1",
+      "Browser": "Android",
+      "Wi-fi Version": "802.11ac"
+    },
+    "Display Features": {
+      "Display Type": "LCD"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Domestic Warranty",
+      "Warranty Service Type": "NA",
+      "Warranty Period": "1 Year"
+    }
+  },
+  {
+    "brand": "Apple",
+    "model": "iPad Air (2020)",
+    "price": "₹54,900",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/l0jwbrk0/tablet/h/i/3/-original-imagcbjrkffdzqrz.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "MYFM2HN/A",
+      "Model Name": "iPad Air (4th Generation)",
+      "Ideal Usage": "Entertainment, Productivity",
+      "Color": "Sky Blue",
+      "Connectivity": "Wi-Fi + Cellular",
+      "OS": "iPadOS",
+      "Operating System Version": "iPadOS 14",
+      "RAM": "4 GB",
+      "Voice Call": "No",
+      "Processor Type": "Hexa Core"
+    },
+    "Product Details": {
+      "Display Size": "10.9 Inch",
+      "Sales Package": "Tablet, USB-C Charge Cable, USB-C Power Adapter",
+      "Display Resolution": "2360 x 1640 Pixel",
+      "Primary Camera": "12.0 megapixels",
+      "Internal Storage": "256 GB",
+      "Processor Speed": "3.1 GHz",
+      "Sensors": "Touch ID Fingerprint Sensor, Three-axis Gyro, Accelerometer, Ambient Light Sensor",
+      "Sim Type": "Nano-SIM",
+      "ROM": "256 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "7606 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "7 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "LED Flash"
+    },
+    "Connectivity Features": {
+      "3G": "No",
+      "Bluetooth Version": "v5.0",
+      "Browser": "Safari",
+      "Wi-fi Version": "802.11ax"
+    },
+    "Display Features": {
+      "Display Type": "Liquid Retina Display"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Limited Warranty",
+      "Warranty Service Type": "Carry-in"
+    }
+  },
+  {
+    "brand": "Lenovo",
+    "model": "Tab P11 Pro",
+    "price": "₹39,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/l4d2ljk0/tablet/h/k/k/-original-imagfa5ags2gwuwe.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "TB-J706F",
+      "Model Name": "Tab P11 Pro",
+      "Ideal Usage": "Entertainment, Productivity",
+      "Color": "Platinum Grey",
+      "Connectivity": "Wi-Fi + Cellular",
+      "OS": "Android",
+      "Operating System Version": "Android 10",
+      "RAM": "4 GB",
+      "Voice Call": "Yes",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "11.5 Inch",
+      "Sales Package": "Tablet, USB Cable, Charger, Quick Start Guide, Warranty Card",
+      "Display Resolution": "2560 x 1600 Pixel",
+      "Primary Camera": "13.0 megapixels",
+      "Internal Storage": "128 GB",
+      "Processor Speed": "2.2 GHz",
+      "Sensors": "Fingerprint Sensor, Accelerometer, Gyroscope, Ambient Light Sensor",
+      "Sim Type": "Nano-SIM",
+      "ROM": "128 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "8600 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "8 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "LED Flash"
+    },
+    "Connectivity Features": {
+      "3G": "Yes",
+      "Bluetooth Version": "v5.0",
+      "Browser": "Chrome",
+      "Wi-fi Version": "802.11ac"
+    },
+    "Display Features": {
+      "Display Type": "OLED"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Warranty",
+      "Warranty Service Type": "Carry-in"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Tab A7",
+    "price": "₹21,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kpvivm80/tablet/r/x/9/sm-t225nzaains-samsung-original-imag4yrg8vahczvr.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "SM-T500",
+      "Model Name": "Galaxy Tab A7",
+      "Ideal Usage": "Entertainment",
+      "Color": "Dark Gray",
+      "Connectivity": "Wi-Fi Only",
+      "OS": "Android",
+      "Operating System Version": "Android 10",
+      "RAM": "3 GB",
+      "Voice Call": "No",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "10.4 Inch",
+      "Sales Package": "Tablet, S Pen, Adapter, USB Cable, Quick Start Guide, Warranty Card",
+      "Display Resolution": "2000 x 1200 Pixel",
+      "Primary Camera": "8.0 megapixels",
+      "Internal Storage": "32 GB",
+      "Processor Speed": "2.0 GHz",
+      "Sensors": "Accelerometer, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor",
+      "Sim Type": "No Sim",
+      "ROM": "32 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "7040 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "5 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "NA"
+    },
+    "Connectivity Features": {
+      "3G": "No",
+      "Bluetooth Version": "v5.0",
+      "Browser": "Google Chrome",
+      "Wi-fi Version": "802.11 a/b/g/n/ac"
+    },
+    "Display Features": {
+      "Display Type": "LCD"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Limited Warranty",
+      "Warranty Service Type": "Carry-in"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "MatePad 11",
+    "price": "₹42,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/kd7pevk0/tablet/f/m/y/huawei-kobe2-l09b-original-imafu5s8jrqhhgrg.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "AGS3-W09",
+      "Model Name": "MatePad 11",
+      "Ideal Usage": "Entertainment, Productivity",
+      "Color": "Misty Blue",
+      "Connectivity": "Wi-Fi Only",
+      "OS": "HarmonyOS",
+      "Operating System Version": "HarmonyOS 2.0",
+      "RAM": "6 GB",
+      "Voice Call": "No",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "10.95 Inch",
+      "Sales Package": "Tablet, Charger, USB Cable, Eject Tool, Quick Start Guide, Warranty Card",
+      "Display Resolution": "2560 x 1600 Pixel",
+      "Primary Camera": "13.0 megapixels",
+      "Internal Storage": "128 GB",
+      "Processor Speed": "2.5 GHz",
+      "Sensors": "Accelerometer, Gyroscope, Ambient Light Sensor, Compass",
+      "Sim Type": "No Sim",
+      "ROM": "128 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "7250 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "8 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "NA"
+    },
+    "Connectivity Features": {
+      "3G": "No",
+      "Bluetooth Version": "v5.1",
+      "Browser": "Huawei Browser",
+      "Wi-fi Version": "Wi-Fi 6"
+    },
+    "Display Features": {
+      "Display Type": "IPS LCD"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Manufacturer Warranty",
+      "Warranty Service Type": "Onsite"
+    }
+  },
+  {
+    "brand": "Amazon",
+    "model": "Fire HD 10",
+    "price": "₹12,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/ksm49e80/screen-guard/impossible-screen-guard/c/f/y/cdtabamahd101-caiden-guards-original-imag64wq4rnnndy3.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "B07K1RZWMC",
+      "Model Name": "Fire HD 10",
+      "Ideal Usage": "Entertainment",
+      "Color": "Black",
+      "Connectivity": "Wi-Fi Only",
+      "OS": "Fire OS",
+      "Operating System Version": "Fire OS 7",
+      "RAM": "2 GB",
+      "Voice Call": "No",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "10.1 Inch",
+      "Sales Package": "Tablet, USB-C charging cable, 9W power adapter, Quick Start Guide",
+      "Display Resolution": "1920 x 1200 Pixel",
+      "Primary Camera": "2.0 megapixels",
+      "Internal Storage": "32 GB",
+      "Processor Speed": "2.0 GHz",
+      "Sensors": "Accelerometer, Ambient Light Sensor",
+      "Sim Type": "No Sim",
+      "ROM": "32 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "5040 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "2.0 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "NA"
+    },
+    "Connectivity Features": {
+      "3G": "No",
+      "Bluetooth Version": "v5.0",
+      "Browser": "Amazon Silk",
+      "Wi-fi Version": "802.11ac"
+    },
+    "Display Features": {
+      "Display Type": "IPS LCD"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Limited Warranty",
+      "Warranty Service Type": "Carry-in"
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi Pad 5",
+    "price": "₹34,999",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/tablet/d/d/n/-original-imaggp4gtdze4hfd.jpeg?q=70&crop=false",
+    "General": {
+      "Model Number": "K81B",
+      "Model Name": "Mi Pad 5",
+      "Ideal Usage": "Entertainment, Productivity",
+      "Color": "Cosmic Gray",
+      "Connectivity": "Wi-Fi Only",
+      "OS": "Android",
+      "Operating System Version": "Android 11",
+      "RAM": "6 GB",
+      "Voice Call": "No",
+      "Processor Type": "Octa Core"
+    },
+    "Product Details": {
+      "Display Size": "11 Inch",
+      "Sales Package": "Tablet, USB Cable, Charger, SIM Eject Tool, Quick Start Guide, Warranty Card",
+      "Display Resolution": "2560 x 1600 Pixel",
+      "Primary Camera": "13.0 megapixels",
+      "Internal Storage": "128 GB",
+      "Processor Speed": "2.9 GHz",
+      "Sensors": "Accelerometer, Gyroscope, Ambient Light Sensor, Proximity Sensor, E-compass",
+      "Sim Type": "No Sim",
+      "ROM": "128 GB"
+    },
+    "Battery Features": {
+      "Battery Capacity": "8720 mAh"
+    },
+    "Camera Features": {
+      "Secondary Camera": "8 megapixels",
+      "Video Recording": "Yes",
+      "Flash": "NA"
+    },
+    "Connectivity Features": {
+      "3G": "No",
+      "Bluetooth Version": "v5.2",
+      "Browser": "Google Chrome",
+      "Wi-fi Version": "Wi-Fi 6"
+    },
+    "Display Features": {
+      "Display Type": "IPS LCD"
+    },
+    "Warranty": {
+      "Warranty": "1 Year",
+      "Warranty Summary": "1 Year Manufacturer Warranty",
+      "Warranty Service Type": "Onsite"
+    }
+  }
+]

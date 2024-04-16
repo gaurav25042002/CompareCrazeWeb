@@ -1,0 +1,352 @@
+[
+  {
+    "brand": "Boat",
+    "model": "Rockerz 450",
+    "price": "₹ 1,499",
+    "description": "Boat Rockerz 450 headphones with up to 15 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "Rockerz 450 with Upto 15 Hours Playback",
+      "color": "Luscious Black",
+      "headphone_type": "On the Ear",
+      "inline_remote": "Yes",
+      "sales_package": "Rockerz 450, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Tablet, Mobile, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "15 hr",
+      "charging_time": "3"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Carry in to service centre or reach out to us at info@imaginemarketingindia.com/+912249461882/support.boat-lifestyle.com. Alternatively you can activate your warranty by giving a missed call on 9223032222",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Accidental and Liquid Damages"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-CH510",
+    "price": "₹ 3,999",
+    "description": "Sony WH-CH510 headphones with up to 35 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/j58hj0w0/headset/extra-bass/k/x/r/sony-mdr-xb450ap-original-imaevftngr8hbrkb.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "WH-CH510 with Upto 35 Hours Playback",
+      "color": "Black",
+      "headphone_type": "On the Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "No",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "No"
+    },
+    "connectivity_features": {
+      "battery_life": "35 hr",
+      "charging_time": "4"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact Sony Customer Care at 1800-103-7799",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "JBL",
+    "model": "T460BT",
+    "price": "₹ 2,999",
+    "description": "JBL T460BT headphones with up to 11 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/y/e/g/-original-imagrh3th8hhnvf4.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "T460BT with Upto 11 Hours Playback",
+      "color": "Black",
+      "headphone_type": "On the Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "11 hr",
+      "charging_time": "2"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact JBL Customer Care at 1800-102-0525",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "Bose",
+    "model": "SoundLink II",
+    "price": "₹ 21,038",
+    "description": "Bose SoundLink II headphones with up to 15 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/headphone/k/6/z/bose-soundlink-on-ear-original-imaeffggz6fjcgaf.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "SoundLink II with Upto 15 Hours Playback",
+      "color": "Black",
+      "headphone_type": "On the Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "15 hr",
+      "charging_time": "2.5"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact Bose Customer Care at 1800-102-2673",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "HD 450BT",
+    "price": "₹ 14,990",
+    "description": "Sennheiser HD 450BT headphones with up to 30 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/b/p/w/pc-8-2-usb-chat-wired-headset-with-mic-for-casual-gaming-e-original-imagpcdfkrcat5t8.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "HD 450BT with Upto 30 Hours Playback",
+      "color": "Black",
+      "headphone_type": "Over the Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "30 hr",
+      "charging_time": "2"
+    },
+    "warranty": {
+      "domestic_warranty": "2 Year",
+      "warranty_summary": "2 Years from the date of purchase",
+      "warranty_service_type": "Contact Sennheiser Customer Care at 1800-22-3632",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Buds Z",
+    "price": "₹ 2,999",
+    "description": "OnePlus Buds Z headphones with up to 20 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/v/m/nord-buds-2-oneplus-original-imagnwf7sgjetqwg.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "Buds Z with Upto 20 Hours Playback",
+      "color": "White",
+      "headphone_type": "In Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "In Ear",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "No",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "20 hr",
+      "charging_time": "2"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact OnePlus Customer Care at 1800 102 8411",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "Bose",
+    "model": "QuietComfort 35 II",
+    "price": "₹ 29,363",
+    "description": "Bose QuietComfort 35 II headphones with up to 20 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/e/j/6/quietcomfort-wireless-noise-cancelling-headphones-bose-original-imagvshaddeftnpy.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "QuietComfort 35 II with Upto 20 Hours Playback",
+      "color": "Black",
+      "headphone_type": "Over the Ear",
+      "inline_remote": "Yes",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "20 hr",
+      "charging_time": "2.25"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact Bose Customer Care at 1800-102-2673",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-XB900N",
+    "price": "₹ 14,990",
+    "description": "Sony WH-XB900N headphones with up to 30 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/k1pbpu80pkrrdj/headphone-refurbished/p/n/t/a-wh-xb900n-sony-original-imafgxcheas6gsq7.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "WH-XB900N with Upto 30 Hours Playback",
+      "color": "Black",
+      "headphone_type": "Over the Ear",
+      "inline_remote": "Yes",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "30 hr",
+      "charging_time": "4"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact Sony Customer Care at 1800-103-7799",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "HD 350BT",
+    "price": "₹ 7,490",
+    "description": "Sennheiser HD 350BT headphones with up to 30 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/k6nxrbk0/headphone/h/t/w/sennheiser-hd-350bt-original-imafp2h976ggs67w.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "HD 350BT with Upto 30 Hours Playback",
+      "color": "Black",
+      "headphone_type": "Over the Ear",
+      "inline_remote": "No",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "30 hr",
+      "charging_time": "2"
+    },
+    "warranty": {
+      "domestic_warranty": "2 Year",
+      "warranty_summary": "2 Years from the date of purchase",
+      "warranty_service_type": "Contact Sennheiser Customer Care at 1800-22-3632",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  },
+  {
+    "brand": "JBL",
+    "model": "Tune 500BT",
+    "price": "₹ 2,999",
+    "description": "JBL Tune 500BT headphones with up to 16 hours of playback time.",
+    "imageUrl": "https://rukminim2.flixcart.com/image/416/416/l2jcccw0/headphone/o/q/b/-original-imagduyfhj8ggwsq.jpeg?q=70&crop=false",
+    "general": {
+      "model_name": "Tune 500BT with Upto 16 Hours Playback",
+      "color": "Black",
+      "headphone_type": "On the Ear",
+      "inline_remote": "Yes",
+      "sales_package": "Headphones, Charging Cable, User Manual, Warranty Card",
+      "connectivity": "Bluetooth",
+      "headphone_design": "Foldable Over the Head",
+      "compatible_devices": "Mobile, Tablet, Laptop"
+    },
+    "product_details": {
+      "foldable_collapsible": "Yes",
+      "deep_bass": "Yes",
+      "water_resistant": "No",
+      "designed_for": "Android, iOS",
+      "with_microphone": "Yes"
+    },
+    "connectivity_features": {
+      "battery_life": "16 hr",
+      "charging_time": "2"
+    },
+    "warranty": {
+      "domestic_warranty": "1 Year",
+      "warranty_summary": "1 Year from the date of purchase",
+      "warranty_service_type": "Contact JBL Customer Care at 1800-102-0525",
+      "covered_in_warranty": "Manufacturing Defects",
+      "not_covered_in_warranty": "Physical Damage"
+    }
+  }
+]
