@@ -28,6 +28,9 @@ app.use(express.json());
 app.use("/api/auth", auth);
 
 app.use("/api/user", user);
+app.use("/",(req,res)=>{
+  res.send("This is Compare Craze website")
+})
 
 const server = http.createServer(app);
 
