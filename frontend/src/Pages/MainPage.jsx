@@ -26,6 +26,21 @@ import CompareGeneric from "../components/CompareGeneric";
 const options = [mobilePhonesData, laptopsData, tvData, tabletsData, smartWatchesData, headphonesData, cameraData, gamingConsolesData ]
 
 const MainPage = () => {
+    const [isAuth, setIsAuth] = useState(false);
+    const navigate = useNavigate();
+
+  // Check if user is authenticated
+    useEffect(() => {
+      const token = localStorage.getItem('token');
+      if (token) {
+        setIsAuth(true);
+        // console.log("if token")
+      } else {
+        setIsAuth(false);
+        console.log("Can't access login first");
+        navigate("/login");
+      }
+    },[]);
     const [value, setValue] = useState(0);
     const [compare, setCompare]= useState(false);
     const handleChange = (event, newValue) => {
