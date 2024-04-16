@@ -14,7 +14,7 @@ connectToMongo();
 
 const app = express();
 
-const ORIGINSITE = process.env.ORIGINSITE || '*';
+const ORIGINSITE = '*';
 const corsOptions ={
    origin:ORIGINSITE
 }
