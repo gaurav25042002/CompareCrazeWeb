@@ -4,7 +4,8 @@ function connectToMongo() {
   try {
     mongoose.connect(process.env.MONGO_URL, {
       useNewUrlParser: true,
-      useUnifiedTopology: true
+      useUnifiedTopology: true,
+      useCreateIndex: true,
     });
     console.log('Connected to MongoDB');
   } catch (err) {
